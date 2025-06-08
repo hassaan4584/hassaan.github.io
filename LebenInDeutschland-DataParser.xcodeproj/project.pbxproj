@@ -1,0 +1,563 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		12F80EB82DF6052F00EBACCC /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 12F80E9F2DF6052D00EBACCC /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 12F80EA62DF6052D00EBACCC;
+			remoteInfo = "LebenInDeutschland-DataParser";
+		};
+		12F80EC22DF6052F00EBACCC /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 12F80E9F2DF6052D00EBACCC /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 12F80EA62DF6052D00EBACCC;
+			remoteInfo = "LebenInDeutschland-DataParser";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		12F80EA72DF6052D00EBACCC /* LebenInDeutschland-DataParser.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "LebenInDeutschland-DataParser.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		12F80EB72DF6052F00EBACCC /* LebenInDeutschland-DataParserTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "LebenInDeutschland-DataParserTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		12F80EC12DF6052F00EBACCC /* LebenInDeutschland-DataParserUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "LebenInDeutschland-DataParserUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		12F80EA92DF6052D00EBACCC /* LebenInDeutschland-DataParser */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "LebenInDeutschland-DataParser";
+			sourceTree = "<group>";
+		};
+		12F80EBA2DF6052F00EBACCC /* LebenInDeutschland-DataParserTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "LebenInDeutschland-DataParserTests";
+			sourceTree = "<group>";
+		};
+		12F80EC42DF6052F00EBACCC /* LebenInDeutschland-DataParserUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "LebenInDeutschland-DataParserUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		12F80EA42DF6052D00EBACCC /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		12F80EB42DF6052F00EBACCC /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		12F80EBE2DF6052F00EBACCC /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		12F80E9E2DF6052D00EBACCC = {
+			isa = PBXGroup;
+			children = (
+				12F80EA92DF6052D00EBACCC /* LebenInDeutschland-DataParser */,
+				12F80EBA2DF6052F00EBACCC /* LebenInDeutschland-DataParserTests */,
+				12F80EC42DF6052F00EBACCC /* LebenInDeutschland-DataParserUITests */,
+				12F80EA82DF6052D00EBACCC /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		12F80EA82DF6052D00EBACCC /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				12F80EA72DF6052D00EBACCC /* LebenInDeutschland-DataParser.app */,
+				12F80EB72DF6052F00EBACCC /* LebenInDeutschland-DataParserTests.xctest */,
+				12F80EC12DF6052F00EBACCC /* LebenInDeutschland-DataParserUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		12F80EA62DF6052D00EBACCC /* LebenInDeutschland-DataParser */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 12F80ECB2DF6052F00EBACCC /* Build configuration list for PBXNativeTarget "LebenInDeutschland-DataParser" */;
+			buildPhases = (
+				12F80EA32DF6052D00EBACCC /* Sources */,
+				12F80EA42DF6052D00EBACCC /* Frameworks */,
+				12F80EA52DF6052D00EBACCC /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				12F80EA92DF6052D00EBACCC /* LebenInDeutschland-DataParser */,
+			);
+			name = "LebenInDeutschland-DataParser";
+			packageProductDependencies = (
+			);
+			productName = "LebenInDeutschland-DataParser";
+			productReference = 12F80EA72DF6052D00EBACCC /* LebenInDeutschland-DataParser.app */;
+			productType = "com.apple.product-type.application";
+		};
+		12F80EB62DF6052F00EBACCC /* LebenInDeutschland-DataParserTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 12F80ECE2DF6052F00EBACCC /* Build configuration list for PBXNativeTarget "LebenInDeutschland-DataParserTests" */;
+			buildPhases = (
+				12F80EB32DF6052F00EBACCC /* Sources */,
+				12F80EB42DF6052F00EBACCC /* Frameworks */,
+				12F80EB52DF6052F00EBACCC /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				12F80EB92DF6052F00EBACCC /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				12F80EBA2DF6052F00EBACCC /* LebenInDeutschland-DataParserTests */,
+			);
+			name = "LebenInDeutschland-DataParserTests";
+			packageProductDependencies = (
+			);
+			productName = "LebenInDeutschland-DataParserTests";
+			productReference = 12F80EB72DF6052F00EBACCC /* LebenInDeutschland-DataParserTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		12F80EC02DF6052F00EBACCC /* LebenInDeutschland-DataParserUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 12F80ED12DF6052F00EBACCC /* Build configuration list for PBXNativeTarget "LebenInDeutschland-DataParserUITests" */;
+			buildPhases = (
+				12F80EBD2DF6052F00EBACCC /* Sources */,
+				12F80EBE2DF6052F00EBACCC /* Frameworks */,
+				12F80EBF2DF6052F00EBACCC /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				12F80EC32DF6052F00EBACCC /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				12F80EC42DF6052F00EBACCC /* LebenInDeutschland-DataParserUITests */,
+			);
+			name = "LebenInDeutschland-DataParserUITests";
+			packageProductDependencies = (
+			);
+			productName = "LebenInDeutschland-DataParserUITests";
+			productReference = 12F80EC12DF6052F00EBACCC /* LebenInDeutschland-DataParserUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		12F80E9F2DF6052D00EBACCC /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1600;
+				LastUpgradeCheck = 1600;
+				TargetAttributes = {
+					12F80EA62DF6052D00EBACCC = {
+						CreatedOnToolsVersion = 16.0;
+					};
+					12F80EB62DF6052F00EBACCC = {
+						CreatedOnToolsVersion = 16.0;
+						TestTargetID = 12F80EA62DF6052D00EBACCC;
+					};
+					12F80EC02DF6052F00EBACCC = {
+						CreatedOnToolsVersion = 16.0;
+						TestTargetID = 12F80EA62DF6052D00EBACCC;
+					};
+				};
+			};
+			buildConfigurationList = 12F80EA22DF6052D00EBACCC /* Build configuration list for PBXProject "LebenInDeutschland-DataParser" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 12F80E9E2DF6052D00EBACCC;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 12F80EA82DF6052D00EBACCC /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				12F80EA62DF6052D00EBACCC /* LebenInDeutschland-DataParser */,
+				12F80EB62DF6052F00EBACCC /* LebenInDeutschland-DataParserTests */,
+				12F80EC02DF6052F00EBACCC /* LebenInDeutschland-DataParserUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		12F80EA52DF6052D00EBACCC /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		12F80EB52DF6052F00EBACCC /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		12F80EBF2DF6052F00EBACCC /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		12F80EA32DF6052D00EBACCC /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		12F80EB32DF6052F00EBACCC /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		12F80EBD2DF6052F00EBACCC /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		12F80EB92DF6052F00EBACCC /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 12F80EA62DF6052D00EBACCC /* LebenInDeutschland-DataParser */;
+			targetProxy = 12F80EB82DF6052F00EBACCC /* PBXContainerItemProxy */;
+		};
+		12F80EC32DF6052F00EBACCC /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 12F80EA62DF6052D00EBACCC /* LebenInDeutschland-DataParser */;
+			targetProxy = 12F80EC22DF6052F00EBACCC /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		12F80EC92DF6052F00EBACCC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		12F80ECA2DF6052F00EBACCC /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		12F80ECC2DF6052F00EBACCC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"LebenInDeutschland-DataParser/Preview Content\"";
+				DEVELOPMENT_TEAM = H92NHYDD4H;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.hassaan.LebenInDeutschland-DataParser";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		12F80ECD2DF6052F00EBACCC /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"LebenInDeutschland-DataParser/Preview Content\"";
+				DEVELOPMENT_TEAM = H92NHYDD4H;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.hassaan.LebenInDeutschland-DataParser";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		12F80ECF2DF6052F00EBACCC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = H92NHYDD4H;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.hassaan.LebenInDeutschland-DataParserTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/LebenInDeutschland-DataParser.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/LebenInDeutschland-DataParser";
+			};
+			name = Debug;
+		};
+		12F80ED02DF6052F00EBACCC /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = H92NHYDD4H;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.hassaan.LebenInDeutschland-DataParserTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/LebenInDeutschland-DataParser.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/LebenInDeutschland-DataParser";
+			};
+			name = Release;
+		};
+		12F80ED22DF6052F00EBACCC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = H92NHYDD4H;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.hassaan.LebenInDeutschland-DataParserUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "LebenInDeutschland-DataParser";
+			};
+			name = Debug;
+		};
+		12F80ED32DF6052F00EBACCC /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = H92NHYDD4H;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.hassaan.LebenInDeutschland-DataParserUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "LebenInDeutschland-DataParser";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		12F80EA22DF6052D00EBACCC /* Build configuration list for PBXProject "LebenInDeutschland-DataParser" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				12F80EC92DF6052F00EBACCC /* Debug */,
+				12F80ECA2DF6052F00EBACCC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		12F80ECB2DF6052F00EBACCC /* Build configuration list for PBXNativeTarget "LebenInDeutschland-DataParser" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				12F80ECC2DF6052F00EBACCC /* Debug */,
+				12F80ECD2DF6052F00EBACCC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		12F80ECE2DF6052F00EBACCC /* Build configuration list for PBXNativeTarget "LebenInDeutschland-DataParserTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				12F80ECF2DF6052F00EBACCC /* Debug */,
+				12F80ED02DF6052F00EBACCC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		12F80ED12DF6052F00EBACCC /* Build configuration list for PBXNativeTarget "LebenInDeutschland-DataParserUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				12F80ED22DF6052F00EBACCC /* Debug */,
+				12F80ED32DF6052F00EBACCC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 12F80E9F2DF6052D00EBACCC /* Project object */;
+}
