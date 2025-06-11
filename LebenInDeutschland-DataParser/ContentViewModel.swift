@@ -29,17 +29,18 @@ class ContentViewModel: ObservableObject {
     func fetchData() async {
         let questionsManager = QuestionsManager()
         do {
-            let originalQuestions = try await questionsManager.getQuestionsFromDisk(filename: "original-questions")
-            print("Original Questions loaded")
-            let newQuestions = try await questionsManager.getQuestionsFromDisk(filename: "2025-06-08-questions")
-            print(originalQuestions.count, newQuestions.count)
+//            let originalQuestions = try await questionsManager.getQuestionsFromDisk(filename: "original-questions")
+//            print("Original Questions loaded")
+            let newQuestions = try await questionsManager.getQuestionsFromDisk(filename: "2025-06-11-questions")
+//            print(originalQuestions.count, newQuestions.count)
 
 //            let orderedQuestions = reorderQuestions(source: originalQuestions, questions: Set(newQuestions))
-            let updatePairs: [Pair] = [.init(source: "72", new: "162"),
-                                       .init(source: "73", new: "163")]
-            let updatedQuestions: [Question] = updateSpecificQuestions(source: originalQuestions, questions: Set(newQuestions),
-                                                                       pairs: updatePairs)
-            try await questionsManager.writeQuestionsToFile(updatedQuestions)
+//            let updatePairs: [Pair] = [.init(source: "72", new: "162"),
+//                                       .init(source: "73", new: "163")]
+//            let updatedQuestions: [Question] = updateSpecificQuestions(source: originalQuestions, questions: Set(newQuestions),
+//                                                                       pairs: updatePairs)
+//            let updatedQuestions = updateIDs(questions: originalQuestions)
+            try await questionsManager.writeQuestionsToFile(newQuestions)
 
         } catch {
             print("Error: \(error)")
@@ -48,6 +49,7 @@ class ContentViewModel: ObservableObject {
         print("Hello, World!")
     }
     
+    /// Updates the `source` questions  from the new `questions` list 
     func updateSpecificQuestions(source: [Question], questions: Set<Question>, pairs: [Pair]) -> [Question]{
         var pairs = pairs
         var output: [Question] = []
@@ -108,7 +110,25 @@ class ContentViewModel: ObservableObject {
             print( questionNumbers.joined(separator: ", "))
         }
         return output
-        
     }
     
+    func updateIDs(questions: [Question]) -> [Question] {
+        var output: [Question] = []
+        for (index, question) in questions.enumerated() {
+            guard index > 20 else {
+                output.append(question)
+                continue
+            }
+            var newID = String(question.id.dropFirst(5))
+            let random  = String.random(length: 5)
+            newID = random + newID
+            
+            let newQuestion = Question(id: newID, num: question.num, question: question.question,
+                                       a: question.a, b: question.b, c: question.c, d: question.d,
+                                       solution: question.solution, translation: question.translation,
+                                       imageUrl: question.imageUrl)
+            output.append(newQuestion)
+        }
+        return output
+    }
 }
