@@ -58,11 +58,21 @@ class QuestionsManager: ObservableObject {
     
     // 2. Update questions and save to new file
        func writeQuestionsToFile(_ questions: [Question], filename: String = "updated-questions") async throws {
+           var emptyCategory: [String] = []
+           var emptyContext: [String] = []
            let updatedQuestions = questions.map { q in
-               return OutputQuestion(id: q.id, num: q.num, question: q.question, a: q.a, b: q.b,
-                                     c: q.c, d: q.d, solution: q.solution, translation: q.translation,
+               if q.category.isEmpty {
+                   emptyCategory.append(q.num)
+               }
+               if q.context == nil {
+                   emptyContext.append(q.num)
+               }
+               return OutputQuestion(id: q.id, num: q.num, category: q.category, question: q.question, a: q.a, b: q.b,
+                                     c: q.c, d: q.d, solution: q.solution, context: q.context ?? "", translation: q.translation,
                               imageUrl: q.imageUrl)
            }
+           print ("Empty category: \(emptyCategory)")
+           print ("Empty context: \(emptyContext)")
            
            // Create new URL for the updated file
            let documentsURL = FileManager.default.urls(for: .documentDirectory, in: .userDomainMask).first!
@@ -85,6 +95,11 @@ class QuestionsManager: ObservableObject {
                    .replacingOccurrences(of: "_keyI_", with: "")
                    .replacingOccurrences(of: "_keyJ_", with: "")
                    .replacingOccurrences(of: "_keyK_", with: "")
+                   .replacingOccurrences(of: "_keyL_", with: "")
+                   .replacingOccurrences(of: "_keyM_", with: "")
+                   .replacingOccurrences(of: "_keyN_", with: "")
+                   .replacingOccurrences(of: "_keyO_", with: "")
+                   .replacingOccurrences(of: "_keyP_", with: "")
                    .replacingOccurrences(of: "\" : ", with: "\": ")
                let newData = stringData.data(using: .utf8)!
                try newData.write(to: outputURL, options: [.atomic])
