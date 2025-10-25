@@ -9,6 +9,7 @@ import Foundation
 struct Question: Codable, Identifiable, Hashable, Equatable {
     let id: String
     let num: String
+    var intNumber: Int?
     var category: String
     let question: String
     let a: String
@@ -22,7 +23,7 @@ struct Question: Codable, Identifiable, Hashable, Equatable {
     
     enum CodingKeys: String, CodingKey, CaseIterable {
         case id
-        case num, category, question, a, b, c, d, solution, context, translation
+        case num, intNumber, category, question, a, b, c, d, solution, context, translation
         case imageUrl = "image"
     }
     
@@ -30,6 +31,7 @@ struct Question: Codable, Identifiable, Hashable, Equatable {
         var container =  encoder.container(keyedBy: CodingKeys.self)
         try container.encode(id, forKey: .id)
         try container.encode(num, forKey: .num)
+        try container.encode(intNumber, forKey: .intNumber)
         try container.encode(category, forKey: .category)
         try container.encode(question, forKey: .question)
         try container.encode(a, forKey: .a)
@@ -68,6 +70,7 @@ struct Question: Codable, Identifiable, Hashable, Equatable {
 struct OutputQuestion: Encodable {
     let id: String
     let num: String
+    let intNumber: Int
     let category: String?
     let question: String
     let a: String
@@ -82,6 +85,7 @@ struct OutputQuestion: Encodable {
     enum CodingKeys: String, CodingKey, CaseIterable {
         case id = "_keyA_id"
         case num = "_keyB_num"
+        case intNumber = "_keyC_intNumber"
         case category = "_keyC_category"
         case question = "_keyE_question"
         case a = "_keyF_a"
@@ -98,6 +102,7 @@ struct OutputQuestion: Encodable {
         var container =  encoder.container(keyedBy: CodingKeys.self)
         try container.encode(id, forKey: .id)
         try container.encode(num, forKey: .num)
+        try container.encode(intNumber, forKey: .intNumber)
         try container.encode(category, forKey: .category)
         try container.encode(question, forKey: .question)
         try container.encode(a, forKey: .a)
@@ -138,10 +143,11 @@ struct OutputQuestion: Encodable {
         
     }
     
-    init(id: String, num: String, category: String, question: String, a: String, b: String, c: String, d: String, solution: String,
+    init(id: String, num: String, intNumber: Int, category: String, question: String, a: String, b: String, c: String, d: String, solution: String,
          context: String, translation: [String : Question.Translation], imageUrl: String) {
         self.id = id
         self.num = num
+        self.intNumber = intNumber
         self.category = category
         self.question = question
         self.a = a

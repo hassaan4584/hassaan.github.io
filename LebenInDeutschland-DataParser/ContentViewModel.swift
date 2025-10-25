@@ -29,20 +29,20 @@ class ContentViewModel: ObservableObject {
     func fetchData() async {
         let questionsManager = QuestionsManager()
         do {
-            let originalQuestions = try await questionsManager.getQuestionsFromDisk(filename: "original-questions")
+//            let originalQuestions = try await questionsManager.getQuestionsFromDisk(filename: "question")
 //            print("Original Questions loaded")
-            let newQuestions = try await questionsManager.getQuestionsFromDisk(filename: "2025-06-08-questions")
+//            let newQuestions = try await questionsManager.getQuestionsFromDisk(filename: "2025-06-08-questions")
 //            print(newQuestions.count)
 
             /// The reordering does not work properly because of difference of wording in source and new questions
 //            let orderedQuestions = reorderQuestions(source: originalQuestions, questions: Set(newQuestions))
-            let updatePairs: [Pair] = [.init(source: "72", new: "162"),
-                                       .init(source: "73", new: "163")]
-            let updatedQuestions: [Question] = updateSpecificQuestions(source: originalQuestions, questions: Set(newQuestions),
-                                                                       pairs: updatePairs)
+//            let updatePairs: [Pair] = [.init(source: "72", new: "162"),
+//                                       .init(source: "73", new: "163")]
+//            let updatedQuestions: [Question] = updateSpecificQuestions(source: originalQuestions, questions: Set(newQuestions),
+//                                                                       pairs: updatePairs)
             // Ignoring the ID updates because it isnt important
             //            let updatedQuestions = updateIDs(questions: originalQuestions)
-            try await questionsManager.writeQuestionsToFile(updatedQuestions)
+//            try await questionsManager.writeQuestionsToFile(updatedQuestions)
             
             
 //            var newQuestions = try await questionsManager.getQuestionsFromDisk(filename: "2025-06-08-questions")
@@ -57,11 +57,23 @@ class ContentViewModel: ObservableObject {
 //                                                                       pairs: updatePairs)
 //            try await questionsManager.writeQuestionsToFile(updatedQuestions)
 
+            
+            // Adding Integer question number with each question
+            var originalQuestions = try await questionsManager.getQuestionsFromDisk(filename: "question")
+            addQuestionNumber(to: &originalQuestions)
+            try await questionsManager.writeQuestionsToFile(originalQuestions)
+
         } catch {
             print("Error: \(error)")
         }
 
         print("Hello, World!")
+    }
+    
+    func addQuestionNumber(to questions: inout Array<Question>) {
+        for (index, question) in questions.enumerated() {
+            questions[index].intNumber = index
+        }
     }
     
     /// This function is not needed because category and context have already been added to the json file

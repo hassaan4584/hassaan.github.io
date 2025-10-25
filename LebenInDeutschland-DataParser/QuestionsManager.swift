@@ -67,7 +67,7 @@ class QuestionsManager: ObservableObject {
                if q.context == nil {
                    emptyContext.append(q.num)
                }
-               return OutputQuestion(id: q.id, num: q.num, category: q.category, question: q.question, a: q.a, b: q.b,
+               return OutputQuestion(id: q.id, num: q.num, intNumber: q.intNumber!, category: q.category, question: q.question, a: q.a, b: q.b,
                                      c: q.c, d: q.d, solution: q.solution, context: q.context ?? "", translation: q.translation,
                               imageUrl: q.imageUrl)
            }
