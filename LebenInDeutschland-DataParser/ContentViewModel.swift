@@ -58,10 +58,16 @@ class ContentViewModel: ObservableObject {
 //            try await questionsManager.writeQuestionsToFile(updatedQuestions)
 
             
-            // Adding Integer question number with each question
+//            // Adding Integer question number with each question
+//            var originalQuestions = try await questionsManager.getQuestionsFromDisk(filename: "question")
+//            addQuestionNumber(to: &originalQuestions)
+//            try await questionsManager.writeQuestionsToFile(originalQuestions)
+            
+            // Separating Translations into separate files
             var originalQuestions = try await questionsManager.getQuestionsFromDisk(filename: "question")
-            addQuestionNumber(to: &originalQuestions)
+//            addQuestionNumber(to: &originalQuestions)
             try await questionsManager.writeQuestionsToFile(originalQuestions)
+
 
         } catch {
             print("Error: \(error)")
