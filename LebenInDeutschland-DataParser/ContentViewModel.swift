@@ -24,7 +24,12 @@ class ContentViewModel: ObservableObject {
     init() {
         Task {
             await fetchData()
+          
+//          let downloader = ImageDownloader(folderName: "LiD Images")
+//          let downloadedImages = try await downloader.downloadAllImages()
+//          print(downloadedImages.map(\.fileURL))
         }
+      
     }
     func fetchData() async {
         let questionsManager = QuestionsManager()

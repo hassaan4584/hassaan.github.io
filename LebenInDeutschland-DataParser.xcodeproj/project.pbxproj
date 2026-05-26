@@ -6,6 +6,10 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		7665F2502FC451BE008BE382 /* ImageDownloader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7665F24F2FC451BE008BE382 /* ImageDownloader.swift */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		12F80EB82DF6052F00EBACCC /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -27,6 +31,7 @@
 		12F80EA72DF6052D00EBACCC /* LebenInDeutschland-DataParser.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "LebenInDeutschland-DataParser.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		12F80EB72DF6052F00EBACCC /* LebenInDeutschland-DataParserTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "LebenInDeutschland-DataParserTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		12F80EC12DF6052F00EBACCC /* LebenInDeutschland-DataParserUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "LebenInDeutschland-DataParserUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		7665F24F2FC451BE008BE382 /* ImageDownloader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageDownloader.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -79,6 +84,7 @@
 				12F80EBA2DF6052F00EBACCC /* LebenInDeutschland-DataParserTests */,
 				12F80EC42DF6052F00EBACCC /* LebenInDeutschland-DataParserUITests */,
 				12F80EA82DF6052D00EBACCC /* Products */,
+				7665F24F2FC451BE008BE382 /* ImageDownloader.swift */,
 			);
 			sourceTree = "<group>";
 		};
@@ -236,6 +242,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7665F2502FC451BE008BE382 /* ImageDownloader.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

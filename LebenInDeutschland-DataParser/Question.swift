@@ -81,6 +81,7 @@ struct OutputQuestion: Encodable {
     let context: String
     let translation: [String: Translation]
     let imageUrl: String?
+  let localImageName: String?
     
     enum CodingKeys: String, CodingKey, CaseIterable {
         case id = "_keyA_id"
@@ -94,6 +95,7 @@ struct OutputQuestion: Encodable {
         case d = "_keyJ_d"
         case solution = "_keyL_solution"
         case imageUrl = "_keyM_image"
+      case localImageName = "_keyM_localImageName"
         case context = "_keyN_context"
         case translation = "_keyO_translation"
     }
@@ -110,6 +112,7 @@ struct OutputQuestion: Encodable {
         try container.encode(c, forKey: .c)
         try container.encode(d, forKey: .d)
         try container.encode(imageUrl, forKey: .imageUrl)
+      try container.encode(localImageName, forKey: .localImageName)
         try container.encode(context, forKey: .context)
         try container.encode(translation, forKey: .translation)
         try container.encode(solution, forKey: .solution)
@@ -162,6 +165,11 @@ struct OutputQuestion: Encodable {
         }
         self.translation = trans
         self.imageUrl = imageUrl
+      if let url = URL(string: imageUrl), url.scheme != nil {
+        self.localImageName = url.lastPathComponent
+      } else {
+        self.localImageName = ""
+      }
     }
 }
 extension String {
