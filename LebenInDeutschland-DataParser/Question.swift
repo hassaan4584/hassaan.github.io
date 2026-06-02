@@ -19,12 +19,12 @@ struct Question: Codable, Identifiable, Hashable, Equatable {
     let solution: String
     var context: String?
     let translation: [String: Translation]
-    let imageUrl: String
+    let localImageName: String?
+  let tags: [String]?
     
     enum CodingKeys: String, CodingKey, CaseIterable {
         case id
-        case num, intNumber, category, question, a, b, c, d, solution, context, translation
-        case imageUrl = "image"
+      case num, intNumber, category, question, a, b, c, d, solution, context, translation, tags, localImageName
     }
     
     func encode(to encoder: any Encoder) throws {
@@ -38,9 +38,10 @@ struct Question: Codable, Identifiable, Hashable, Equatable {
         try container.encode(b, forKey: .b)
         try container.encode(c, forKey: .c)
         try container.encode(d, forKey: .d)
-        try container.encode(imageUrl, forKey: .imageUrl)
+        try container.encode(localImageName, forKey: .localImageName)
         try container.encode(context, forKey: .context)
-        try container.encode(translation, forKey: .translation)
+      try container.encode(translation, forKey: .translation)
+      try container.encode(tags, forKey: .tags)
         try container.encode(solution, forKey: .solution)
     }
     
@@ -80,8 +81,9 @@ struct OutputQuestion: Encodable {
     let solution: String
     let context: String
     let translation: [String: Translation]
-    let imageUrl: String?
+//    let imageUrl: String?
   let localImageName: String?
+  let tags: [String]?
     
     enum CodingKeys: String, CodingKey, CaseIterable {
         case id = "_keyA_id"
@@ -94,10 +96,11 @@ struct OutputQuestion: Encodable {
         case c = "_keyI_c"
         case d = "_keyJ_d"
         case solution = "_keyL_solution"
-        case imageUrl = "_keyM_image"
+//        case imageUrl = "_keyM_image"
       case localImageName = "_keyM_localImageName"
         case context = "_keyN_context"
         case translation = "_keyO_translation"
+      case tags = "_keyO_tags"
     }
     
     func encode(to encoder: any Encoder) throws {
@@ -111,12 +114,15 @@ struct OutputQuestion: Encodable {
         try container.encode(b, forKey: .b)
         try container.encode(c, forKey: .c)
         try container.encode(d, forKey: .d)
-        try container.encode(imageUrl, forKey: .imageUrl)
+//        try container.encode(imageUrl, forKey: .imageUrl)
       if let localImageName = localImageName {
         try container.encode(localImageName, forKey: .localImageName)
       }
         try container.encode(context, forKey: .context)
         try container.encode(translation, forKey: .translation)
+      if let tags = tags {
+        try container.encode(tags, forKey: .tags)
+      }
         try container.encode(solution, forKey: .solution)
     }
     
@@ -149,7 +155,7 @@ struct OutputQuestion: Encodable {
     }
     
     init(id: String, num: String, intNumber: Int, category: String, question: String, a: String, b: String, c: String, d: String, solution: String,
-         context: String, translation: [String : Question.Translation], imageUrl: String) {
+         context: String, translation: [String : Question.Translation], localImageName: String?, tags: [String]?) {
         self.id = id
         self.num = num
         self.intNumber = intNumber
@@ -166,11 +172,15 @@ struct OutputQuestion: Encodable {
             trans[key] = Translation(q: value)
         }
         self.translation = trans
-        self.imageUrl = imageUrl
-      if let url = URL(string: imageUrl), url.scheme != nil {
-        self.localImageName = url.lastPathComponent
+      if let localImageName = localImageName, !localImageName.isEmpty {
+        self.localImageName = localImageName
       } else {
         self.localImageName = nil
+      }
+      if let tags = tags {
+        self.tags = tags
+      } else {
+        self.tags = nil
       }
     }
 }

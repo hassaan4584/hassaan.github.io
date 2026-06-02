@@ -69,7 +69,8 @@ class QuestionsManager: ObservableObject {
                }
                return OutputQuestion(id: q.id, num: q.num, intNumber: q.intNumber!, category: q.category, question: q.question, a: q.a, b: q.b,
                                      c: q.c, d: q.d, solution: q.solution, context: q.context ?? "", translation: q.translation,
-                              imageUrl: q.imageUrl)
+                                     localImageName: q.localImageName,
+                                     tags: q.tags)
            }
            print ("Empty category: \(emptyCategory)")
            print ("Empty context: \(emptyContext)")

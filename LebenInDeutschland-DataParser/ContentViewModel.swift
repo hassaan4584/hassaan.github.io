@@ -128,7 +128,8 @@ class ContentViewModel: ObservableObject {
                                         solution: foundQuestion.solution,
                                         context: foundQuestion.context,
                                         translation: foundQuestion.translation,
-                                        imageUrl: foundQuestion.imageUrl))
+                                        localImageName: foundQuestion.localImageName,
+                                        tags: foundQuestion.tags))
                     pairs.removeAll { $0.sourceQuestionNum == pair.sourceQuestionNum &&
                         $0.newDataQuestionNum == pair.newDataQuestionNum }
                 }
@@ -164,7 +165,8 @@ class ContentViewModel: ObservableObject {
                                     solution: foundQuestion.solution,
                                     context: foundQuestion.context,
                                     translation: foundQuestion.translation,
-                                    imageUrl: foundQuestion.imageUrl))
+                                    localImageName: foundQuestion.localImageName,
+                                    tags: foundQuestion.tags))
                 questionNumbers.removeAll(where: { $0 == sourceQuestion.num})
             }
         }
@@ -190,7 +192,8 @@ class ContentViewModel: ObservableObject {
             let newQuestion = Question(id: newID, num: question.num, category: question.category, question: question.question,
                                        a: question.a, b: question.b, c: question.c, d: question.d,
                                        solution: question.solution, context: question.context, translation: question.translation,
-                                       imageUrl: question.imageUrl)
+                                       localImageName: question.localImageName,
+                                       tags: question.tags)
             output.append(newQuestion)
         }
         return output
