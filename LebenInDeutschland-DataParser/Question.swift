@@ -112,7 +112,9 @@ struct OutputQuestion: Encodable {
         try container.encode(c, forKey: .c)
         try container.encode(d, forKey: .d)
         try container.encode(imageUrl, forKey: .imageUrl)
-      try container.encode(localImageName, forKey: .localImageName)
+      if let localImageName = localImageName {
+        try container.encode(localImageName, forKey: .localImageName)
+      }
         try container.encode(context, forKey: .context)
         try container.encode(translation, forKey: .translation)
         try container.encode(solution, forKey: .solution)
@@ -168,7 +170,7 @@ struct OutputQuestion: Encodable {
       if let url = URL(string: imageUrl), url.scheme != nil {
         self.localImageName = url.lastPathComponent
       } else {
-        self.localImageName = ""
+        self.localImageName = nil
       }
     }
 }
