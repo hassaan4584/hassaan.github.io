@@ -883,7 +883,7 @@
         "b": "جميع أعضاء البرلمان الذين لا ينتمون إلى الحزب (الأحزاب الحاكمة).",
         "c": "المجموعة البرلمانية التي تضم أكبر عدد من النواب.",
         "d": "جميع الأحزاب التي تمكنت من الوصول إلى عقبة 5٪ في الانتخابات الأخيرة.",
-        "context": "No context available"
+        "context": "في النظام البرلماني يشير مصطلح \"المعارضة\" إلى الأحزاب أو النواب الذين لا يشكلون جزءًا من ائتلاف الحكومة. تلعب المعارضة دورًا مهمًا من خلال مراقبة عمل الحكومة بشكل نقدي، وتقديم مقترحات بديلة، ومراقبة أداء الحكومة. تضمن تمثيل الآراء والمصالح المختلفة في البرلمان وتعزز اتخاذ قرارات متوازنة. من خلال النقاشات والطلبات وأعمال اللجان تساهم المعارضة في شفافية الحكومة ومساءلتها مما يقوي العمليات الديمقراطية."
       },
       "en": {
         "question": "In parliament, the term \"opposition\" stands for ...",
@@ -899,7 +899,7 @@
         "b": "Tous les membres du Parlement qui n’appartiennent pas au(x) parti(s) au pouvoir.",
         "c": "Le groupe parlementaire qui compte le plus de députés.",
         "d": "tous les partis qui ont réussi à franchir la barre des 5 % lors des dernières élections.",
-        "context": "No context available"
+        "context": "Dans le système parlementaire, le terme « opposition » désigne les partis ou les députés qui ne font pas partie de la coalition au pouvoir. L'opposition joue un rôle important en accompagnant de manière critique le travail du gouvernement, en proposant des alternatives et en contrôlant l'exécutif. Elle veille à ce que des opinions et des intérêts divers soient représentés au Parlement et favorise une prise de décision équilibrée. Par le biais de débats, de questions et du travail en commission, l'opposition contribue à la transparence et à la responsabilité du gouvernement, renforçant ainsi les processus démocratiques."
       },
       "hi": {
         "question": "संसद में, \"विपक्ष\" शब्द का अर्थ है ...",
@@ -907,7 +907,7 @@
         "b": "संसद के सभी सदस्य जो शासी दल (दलों) से संबंधित नहीं हैं।",
         "c": "सबसे अधिक प्रतिनियुक्तियों वाला संसदीय समूह।",
         "d": "सभी पार्टियां जो पिछले चुनाव में 5% की बाधा तक पहुंचने में सक्षम थीं।",
-        "context": "No context available"
+        "context": "संसदीय प्रणाली में 'विपक्ष' शब्द उन पार्टियों या सांसदों को दर्शाता है जो सरकारी गठबंधन का हिस्सा नहीं हैं। विपक्ष एक महत्वपूर्ण भूमिका निभाता है — वह सरकार के काम की आलोचनात्मक रूप से निगरानी करता है, वैकल्पिक प्रस्ताव प्रस्तुत करता है और सरकार की जांच करता है। यह सुनिश्चित करता है कि संसद में विभिन्न मत और हित प्रतिनिधित्व हों और संतुलित निर्णय लिए जाएँ। बहसों, प्रश्नों और समिति के कार्य के माध्यम से विपक्ष सरकार की पारदर्शिता और जवाबदेही में योगदान देता है, जिससे लोकतान्त्रिक प्रक्रियाएँ मजबूत होती हैं।"
       },
       "ru": {
         "question": "В парламенте термин «оппозиция» расшифровывается как ...",
@@ -915,7 +915,7 @@
         "b": "Все члены парламента, не принадлежащие к правящей партии (партиям).",
         "c": "Парламентская группа с наибольшим количеством депутатов.",
         "d": "Все партии, которые смогли преодолеть 5% барьер на последних выборах.",
-        "context": "No context available"
+        "context": "В парламентской системе термин «оппозиция» обозначает те партии или депутатов, которые не входят в правящую коалицию. Оппозиция играет важную роль: она критически сопровождает работу правительства, вносит альтернативные предложения и контролирует исполнительную власть. Она обеспечивает представление различных мнений и интересов в парламенте и способствует взвешенному принятию решений. Через дебаты, запросы и работу в комитетах оппозиция способствует прозрачности и подотчётности правительства, укрепляя тем самым демократические процессы."
       },
       "tr": {
         "question": "Parlamentoda \"muhalefet\" terimi ...",
@@ -923,7 +923,7 @@
         "b": "İktidar partisine\/partilerine mensup olmayan tüm milletvekilleri.",
         "c": "En çok milletvekiline sahip parlamento grubu.",
         "d": "Son seçimde %5 barajını aşabilen tüm partiler.",
-        "context": "No context available"
+        "context": "Parlamenter sistemde 'muhalefet' terimi, iktidar koalisyonunun bir parçası olmayan partileri veya milletvekillerini ifade eder. Muhalefet, hükümetin çalışmalarını eleştirel şekilde izleyerek, alternatif öneriler sunarak ve hükümeti denetleyerek önemli bir rol oynar. Parlamentoda farklı görüş ve çıkarların temsil edilmesini sağlar ve dengeli karar almayı teşvik eder. Tartışmalar, soru önergeleri ve komisyon çalışmaları aracılığıyla muhalefet, hükümetin şeffaflığına ve hesap verebilirliğine katkıda bulunarak demokratik süreçleri güçlendirir."
       },
       "uk": {
         "question": "У парламенті термін \"опозиція\" розшифровується як ...",
@@ -931,7 +931,7 @@
         "b": "всі члени парламенту, які не належать до правлячої партії (партій).",
         "c": "Депутатська група з найбільшою кількістю депутатів.",
         "d": "Усі партії, які змогли подолати 5% бар'єр на останніх виборах.",
-        "context": "No context available"
+        "context": "У парламентській системі термін «опозиція» означає ті партії або депутатів, які не є частиною правлячої коаліції. Опозиція відіграє важливу роль: вона критично контролює роботу уряду, вносить альтернативні пропозиції та здійснює нагляд за владою. Вона забезпечує представлення різних думок і інтересів у парламенті та сприяє збалансованому прийняттю рішень. За допомогою дебатів, запитів і роботи комітетів опозиція сприяє прозорості та підзвітності уряду, посилюючи демократичні процеси."
       }
     }
   },
@@ -7363,7 +7363,7 @@
         "b": "من الحزب الاشتراكي الديمقراطي والحزب الديمقراطي الحر وبونديس 90 \/ يموت غرونين في حكومة واحدة",
         "c": "من CSU و Die Linke و Bündnis 90 \/ Die Grünen في حكومة واحدة",
         "d": "من المجموعات البرلمانية لحزب الاتحاد الديمقراطي المسيحي والحزب الاشتراكي الديمقراطي",
-        "context": "No context available"
+        "context": "تحالف 'إشارة المرور' هو مصطلح في السياسة الألمانية ويشير إلى ائتلاف حكومي يتكون من أحزاب ألوانها تتطابق مع ألوان إشارة المرور: الأحمر والأصفر والأخضر. وهذا يعني التعاون بين الحزب الاشتراكي الديمقراطي (SPD) للأحمر، والحزب الديمقراطي الحر (FDP) للأصفر، وتحالف 90/الخضر للأخضر. تتشكّل مثل هذه الائتلافات غالبًا بعد الانتخابات عندما لا تحقق أي حزب أغلبية بمفرده. تتبع عادة سياسات تمزج بين العدالة الاجتماعية والحرية الاقتصادية وحماية البيئة."
       },
       "en": {
         "question": "What is called a \"traffic light coalition\" in Germany? The cooperation ...",
@@ -7379,7 +7379,7 @@
         "b": "du SPD, du FDP et de Bündnis 90\/Die Grünen dans un seul gouvernement",
         "c": "de la CSU, Die Linke et Bündnis 90\/Die Grünen dans un seul gouvernement",
         "d": "des groupes parlementaires de la CDU et du SPD",
-        "context": "No context available"
+        "context": "Une « coalition feu tricolore » est un terme de la politique allemande qui désigne une coalition gouvernementale composée de partis correspondant aux couleurs d’un feu de circulation : rouge, jaune et vert. Concrètement, il s'agit de la coopération du Parti social-démocrate d'Allemagne (SPD) pour le rouge, du Parti libéral-démocrate (FDP) pour le jaune et de Bündnis 90/Les Verts pour le vert. De telles coalitions se forment souvent après les élections lorsqu'aucun parti n'obtient la majorité. La coalition feu tricolore poursuit généralement un mélange de justice sociale, de liberté économique et de protection de l'environnement."
       },
       "hi": {
         "question": "जर्मनी में \"ट्रैफिक लाइट गठबंधन\" किसे कहा जाता है? सहयोग ...",
@@ -7387,7 +7387,7 @@
         "b": "एसपीडी, एफडीपी और बुंडनिस 90\/डाई ग्रुनेन एक सरकार में",
         "c": "सीएसयू की, डाई लिंके और बुंडनिस 90 \/",
         "d": "सीडीयू और एसपीडी के संसदीय समूहों के",
-        "context": "No context available"
+  "context": "ट्रैफिक लाइट गठबंधन जर्मन राजनीति में प्रयुक्त एक शब्द है और यह उन पार्टियों के बीच बनाये जाने वाले सरकार गठबंधन को दर्शाता है जिनके रंग ट्रैफिक लाइट के रंगों से मेल खाते हैं: लाल, पीला और हरा। विशिष्ट रूप से इसका मतलब है कि सोशल डेमोक्रेटिक पार्टी (SPD) लाल, फ्री डेमोक्रेटिक पार्टी (FDP) पीला और Bündnis 90/Die Grünen हरा का प्रतिनिधित्व करते हैं। ऐसे गठबंधन अक्सर चुनावों के बाद बनते हैं जब कोई पार्टी अकेले बहुमत नहीं पाती। आमतौर पर यह गठबंधन सामाजिक न्याय, आर्थिक स्वतंत्रता और पर्यावरण संरक्षण का मिश्रण अपनाता है।"
       },
       "ru": {
         "question": "Что в Германии называется «светофорной коалицией»? Сотрудничество ...",
@@ -7395,7 +7395,7 @@
         "b": "СДПГ, СвДП и Bündnis 90\/Die Grünen в одном правительстве",
         "c": "ХСС, Die Linke и Bündnis 90\/Die Grünen в одном правительстве",
         "d": "парламентских фракций ХДС и СДПГ",
-        "context": "No context available"
+        "context": "«Светофорная коалиция» — термин в немецкой политике, обозначающий правящую коалицию из партий, соответствующих цветам светофора: красный, желтый и зеленый. Конкретно это сотрудничество Социал-демократической партии Германии (SPD) — за «красный», Свободной демократической партии (FDP) — за «желтый» и Bündnis 90/Die Grünen — за «зеленый». Такие коалиции обычно формируются после выборов, если ни одна партия не получает большинства. Как правило, «светофорная» коалиция сочетает в себе элементы социальной справедливости, экономической свободы и защиты окружающей среды."
       },
       "tr": {
         "question": "Almanya'da \"trafik ışığı koalisyonu\" olarak adlandırılan şey nedir? İşbirliği ...",
@@ -7403,7 +7403,7 @@
         "b": "SPD, FDP ve Bündnis 90\/Die Grünen'in tek hükümette olması",
         "c": "CSU, Die Linke ve Bündnis 90\/Die Grünen'in tek bir hükümette olması",
         "d": "CDU ve SPD'nin meclis gruplarının",
-        "context": "No context available"
+  "context": "Trafik ışığı koalisyonu Almanya siyasetinde kullanılan bir terimdir ve kırmızı, sarı ve yeşil gibi trafik ışığı renklerine karşılık gelen partilerden oluşan bir hükümet koalisyonunu ifade eder. Somut olarak bu, Sosyal Demokrat Parti (SPD) için kırmızı, Hür Demokrat Parti (FDP) için sarı ve Bündnis 90/Die Grünen için yeşil arasındaki işbirliğini ifade eder. Bu tür koalisyonlar genellikle hiçbir partinin tek başına çoğunluğu elde edemediği seçimlerin ardından oluşur. Trafik ışığı koalisyonu genellikle sosyal adalet, ekonomik özgürlük ve çevre korumayı harmanlayan politikalar izler."
       },
       "uk": {
         "question": "Що в Німеччині називають «світлофорною коаліцією»? Співпраця ...",
@@ -7411,7 +7411,7 @@
         "b": "СДПН, ВДП та Bündnis 90\/Die Grünen в одному уряді",
         "c": "ХСС, Die Linke та Bündnis 90\/Die Grünen в одному уряді",
         "d": "парламентських груп ХДС і СДПН",
-        "context": "No context available"
+        "context": "«Коаліція світлофора» — термін німецької політики, що означає урядову коаліцію з партій, кольори яких відповідають кольорам світлофора: червоний, жовтий і зелений. Конкретно це співпраця Соціал-демократичної партії Німеччини (SPD) — за червоний, Вільної демократичної партії (FDP) — за жовтий і Bündnis 90/Die Grünen — за зелений. Такі коаліції часто формуються після виборів, коли жодна партія не отримує більшості. Зазвичай коаліція «світлофора» поєднує соціальну справедливість, економічну свободу та захист навколишнього середовища."
       }
     }
   },
@@ -7931,7 +7931,7 @@
     "d": "Der öffentliche Aufruf zur Vernichtung Israels.",
     "solution": "d",
     "image": "-",
-    "context": "General",
+    "context": "In Deutschland ist die Meinungsfreiheit geschützt; dies umfasst das Recht, die Politik eines jeden Landes – einschließlich des Staates Israel – zu erörtern und zu kritisieren. Die öffentliche Forderung nach der Zerstörung Israels kann jedoch als antisemitische Hassrede eingestuft werden und gegen das deutsche Strafrecht verstoßen – insbesondere dann, wenn sie zu Hass oder Gewalt aufstachelt. Aufgrund der historischen Verantwortung Deutschlands infolge des Holocausts sind die Bekämpfung des Antisemitismus und der Schutz jüdischen Lebens wichtige verfassungsrechtliche und gesellschaftliche Grundsätze.",
     "translation": {
       "ar": {
         "question": "ما هو الفعل المحظور في ألمانيا فيما يتعلق بدولة إسرائيل؟",
@@ -7939,7 +7939,7 @@
         "b": "تعليق علم إسرائيلي على ممتلكات خاصة.",
         "c": "نقاش حول السياسة الإسرائيلية.",
         "d": "الجمهور يدعو إلى تدمير إسرائيل.",
-        "context": "عام"
+        "context": "في ألمانيا، يتمتع الحق في حرية التعبير بالحماية، ويشمل ذلك الحق في مناقشة سياسات أي دولة ونقدها، بما في ذلك سياسات دولة إسرائيل. ومع ذلك، فإن الدعوة العلنية إلى تدمير إسرائيل قد تُعتبر خطاب كراهية معادياً للسامية، وقد تشكل انتهاكاً للقانون الجنائي الألماني، لا سيما عندما تنطوي على تحريض على الكراهية أو العنف. ونظراً للمسؤولية التاريخية التي تضطلع بها ألمانيا في أعقاب المحرقة (الهولوكوست)، فإن مكافحة معاداة السامية وحماية الحياة اليهودية يُعدّان من المبادئ الدستورية والاجتماعية الجوهرية."
       },
       "en": {
         "question": "What act with reference to the State of Israel is prohibited in Germany?",
@@ -7947,7 +7947,7 @@
         "b": "The hanging of an Israeli flag on private property.",
         "c": "A discussion about Israel's politics.",
         "d": "The public call for the destruction of Israel.",
-        "context": "General"
+        "context": "In Germany, freedom of expression is protected, which includes the right to discuss and criticize the policies of any country, including the State of Israel. However, publicly calling for the destruction of Israel can be considered antisemitic hate speech and may violate German criminal law, especially when it incites hatred or violence. Because of Germany’s historical responsibility following the Holocaust, combating antisemitism and protecting Jewish life are important constitutional and social principles."
       },
       "fr": {
         "question": "Quel acte concernant l’État d’Israël est interdit en Allemagne ?",
@@ -7955,7 +7955,7 @@
         "b": "L’accrochage d’un drapeau israélien sur une propriété privée.",
         "c": "Une discussion sur la politique d’Israël.",
         "d": "L’appel public à la destruction d’Israël.",
-        "context": "Généralités"
+        "context": "En Allemagne, la liberté d'expression est protégée, ce qui inclut le droit de débattre des politiques de tout pays — y compris l'État d'Israël — et de les critiquer. Toutefois, appeler publiquement à la destruction d'Israël peut être considéré comme un discours de haine antisémite et constituer une infraction au droit pénal allemand, en particulier lorsque cela incite à la haine ou à la violence. En raison de la responsabilité historique de l'Allemagne à la suite de l'Holocauste, la lutte contre l'antisémitisme et la protection de la vie juive constituent des principes constitutionnels et sociaux fondamentaux."
       },
       "hi": {
         "question": "जर्मनी में इज़राइल राज्य के संदर्भ में कौन सा कार्य निषिद्ध है?",
@@ -7963,7 +7963,7 @@
         "b": "निजी संपत्ति पर एक इजरायली ध्वज लटका।",
         "c": "इजरायल की राजनीति के बारे में एक चर्चा।",
         "d": "जनता इजरायल के विनाश का आह्वान करती है।",
-        "context": "सामान्य"
+        "context": "जर्मनी में अभिव्यक्ति की स्वतंत्रता सुरक्षित है, जिसमें किसी भी देश—इजरायल सहित—की नीतियों पर चर्चा करने और उनकी आलोचना करने का अधिकार शामिल है। हालाँकि, सार्वजनिक रूप से इजरायल के विनाश का आह्वान करना यहूदी-विरोधी घृणास्पद भाषण माना जा सकता है और यह जर्मनी के आपराधिक कानून का उल्लंघन कर सकता है, विशेष रूप से तब जब यह घृणा या हिंसा भड़काता हो। होलोकॉस्ट के बाद जर्मनी की ऐतिहासिक ज़िम्मेदारी के कारण, यहूदी-विरोध का मुकाबला करना और यहूदी जीवन की रक्षा करना महत्वपूर्ण संवैधानिक और सामाजिक सिद्धांत हैं।"
       },
       "ru": {
         "question": "Какие действия в отношении государства Израиль запрещены в Германии?",
@@ -7971,7 +7971,7 @@
         "b": "Вывешивание израильского флага на частной территории.",
         "c": "Дискуссия о политике Израиля.",
         "d": "Публичный призыв к уничтожению Израиля.",
-        "context": "Общее"
+        "context": "В Германии гарантируется свобода выражения мнений, которая включает в себя право обсуждать и критиковать политику любой страны, в том числе Государства Израиль. Однако публичные призывы к уничтожению Израиля могут быть расценены как антисемитские высказывания, разжигающие ненависть, и могут являться нарушением уголовного законодательства Германии — особенно в тех случаях, когда они подстрекают к ненависти или насилию. В силу исторической ответственности Германии, обусловленной событиями Холокоста, борьба с антисемитизмом и защита еврейской жизни выступают важнейшими конституционными и общественными принципами."
       },
       "tr": {
         "question": "Almanya'da İsrail Devleti'ne atıfta bulunan hangi eylemler yasaktır?",
@@ -7979,7 +7979,7 @@
         "b": "İsrail bayrağının özel mülke asılması.",
         "c": "İsrail siyaseti hakkında bir tartışma.",
         "d": "Halk İsrail'in yok edilmesi çağrısında bulunuyor.",
-        "context": "Genel"
+        "context": "Almanya'da ifade özgürlüğü güvence altındadır; bu güvence, İsrail Devleti de dahil olmak üzere herhangi bir ülkenin politikalarını tartışma ve eleştirme hakkını da kapsar. Bununla birlikte, İsrail'in yok edilmesine yönelik aleni çağrılar, özellikle de nefreti veya şiddeti körüklediği durumlarda, antisemitik nefret söylemi olarak değerlendirilebilir ve Alman ceza hukukuna aykırılık teşkil edebilir. Almanya'nın Holokost sonrasında üstlendiği tarihsel sorumluluk nedeniyle, antisemitizmle mücadele etmek ve Yahudi yaşamını korumak, önemli anayasal ve toplumsal ilkelerdir."
       },
       "uk": {
         "question": "Які дії щодо Держави Ізраїль заборонені в Німеччині?",
@@ -7987,7 +7987,7 @@
         "b": "Вивішування прапора Ізраїлю на приватній території.",
         "c": "Дискусія про політику Ізраїлю.",
         "d": "Громадськість закликає до знищення Ізраїлю.",
-        "context": "Загальне"
+        "context": "«У Німеччині захищена свобода слова, що включає право обговорювати та критикувати політику будь-якої країни, включаючи Державу Ізраїль. Однак публічні заклики до знищення Ізраїлю можуть вважатися антисемітською мовою ненависті та можуть порушувати німецьке кримінальне законодавство, особливо коли вони підбурюють до ненависті чи насильства. Через історичну відповідальність Німеччини після Голокосту, боротьба з антисемітизмом та захист єврейського життя є важливими конституційними та соціальними принципами»."
       }
     }
   },
@@ -9595,7 +9595,7 @@
         "b": "أصبحت عضوا في ناد رياضي وأدرب ركوب الدراجات.",
         "c": "أتصل بمكتب الضرائب لأنني ، بصفتي دافع ضرائب ، لدي الحق في خط الحافلات.",
         "d": "أكتب رسالة إلى مكتب الغابات في البلدية.",
-        "context": "No context available"
+        "context": "تخطط شركة النقل المحلية لإلغاء خط الحافلات الذي تستخدمه يوميًا للوصول إلى العمل. قد يزيد ذلك من مدة تنقلك الصباحية ويجعل الوصول إلى مكان عملك أكثر صعوبة. لضمان استمرار خدمة خط الحافلات، فكر في الخطوات التي يمكنك اتخاذها. تتراوح خياراتك من المشاركة في مبادرات مواطنين إلى تقديم طلبات مباشرة إلى الجهات الحكومية. من المهم أن تتحرك للحفاظ على البنية التحتية العامة وراحة التنقل اليومي في مجتمعك."
       },
       "en": {
         "question": "They want to abolish the bus line that you always use to get to work. What can you do to maintain the bus line?",
@@ -9611,7 +9611,7 @@
         "b": "Je deviens membre d’un club sportif et je m’entraîne à faire du cyclisme.",
         "c": "Je m’adresse au bureau des impôts parce qu’en tant que contribuable, j’ai droit à la ligne de bus.",
         "d": "J’écris une lettre à l’office des forêts de la commune.",
-        "context": "No context available"
+        "context": "La société de transport locale envisage de supprimer la ligne de bus que vous empruntez quotidiennement pour vous rendre au travail. Cela allongerait votre trajet du matin et rendrait l'accès à votre lieu de travail plus difficile. Pour assurer la continuité de la ligne de bus, réfléchissez aux démarches possibles. Vos options vont de la participation à des initiatives citoyennes à des demandes directes auprès des autorités. Il est important d'agir pour préserver l'infrastructure publique et le confort quotidien dans votre commune."
       },
       "hi": {
         "question": "वे उस बस लाइन को खत्म करना चाहते हैं जिसका उपयोग आप हमेशा काम करने के लिए करते हैं। बस लाइन को बनाए रखने के लिए आप क्या कर सकते हैं?",
@@ -9619,7 +9619,7 @@
         "b": "मैं एक स्पोर्ट्स क्लब का सदस्य बन जाता हूं और साइकिल चलाना सिखाता हूं।",
         "c": "मैं कर कार्यालय से संपर्क कर रहा हूं क्योंकि, एक करदाता के रूप में, मुझे बस लाइन का अधिकार है।",
         "d": "मैं नगर पालिका के वानिकी कार्यालय को एक पत्र लिखता हूं।",
-        "context": "No context available"
+        "context": "स्थानीय परिवहन एजेंसी उस बस लाइन को खत्म करने की योजना बना रही है जिसका आप रोज़ाना अपने कार्यस्थल तक पहुंचने के लिए उपयोग करते हैं। इससे आपकी सुबह की आवागमन अवधि बढ़ सकती है और कार्यस्थल तक पहुंच मुश्किल हो सकती है। बस लाइन की जारी रहने को सुनिश्चित करने के लिए सोचें कि आप क्या कदम उठा सकते हैं। आपके विकल्पों में नागरिक पहल में भाग लेना या अधिकारियों से सीधे अनुरोध करना शामिल है। अपनी Gemeinde में सार्वजनिक बुनियादी ढांचे और दैनिक सुविधा को बनाए रखने के लिए सक्रिय होना महत्वपूर्ण है।"
       },
       "ru": {
         "question": "Они хотят упразднить автобусную линию, по которой вы всегда добираетесь до работы. Что вы можете сделать для поддержания автобусной линии?",
@@ -9627,7 +9627,7 @@
         "b": "Я становлюсь членом спортивного клуба и тренируюсь на велосипеде.",
         "c": "Я обращаюсь в налоговую инспекцию, потому что, как налогоплательщик, я имею право на автобусную линию.",
         "d": "Я пишу письмо в управление лесного хозяйства муниципалитета.",
-        "context": "No context available"
+        "context": "Местная транспортная компания планирует отменить автобусный маршрут, которым вы ежедневно добираетесь на работу. Это увеличит ваше утреннее время в пути и усложнит доступ к рабочему месту. Чтобы обеспечить сохранение маршрута, подумайте, какие шаги вы можете предпринять. Ваши варианты варьируются от участия в гражданских инициативах до прямых обращений в органы власти. Важно действовать, чтобы сохранить общественную инфраструктуру и повседневный комфорт в вашем сообществе."
       },
       "tr": {
         "question": "İşe gitmek için her zaman kullandığınız otobüs hattını kaldırmak istiyorlar. Otobüs hattını korumak için ne yapabilirsiniz?",
@@ -9635,7 +9635,7 @@
         "b": "Bir spor kulübüne üye oluyorum ve bisiklete binme antrenmanı yapıyorum.",
         "c": "Vergi mükellefi olarak otobüs hattı hakkım olduğu için vergi dairesi ile iletişime geçiyorum.",
         "d": "Belediyenin orman dairesine bir mektup yazıyorum.",
-        "context": "No context available"
+        "context": "Yerel ulaşım şirketi, işe gitmek için her gün kullandığınız otobüs hattını kaldırmayı planlıyor. Bu, sabah yolculuğunuzun süresini uzatır ve iş yerine ulaşımı zorlaştırır. Otobüs hattının devam etmesini sağlamak için atabileceğiniz adımları düşünün. Seçenekleriniz vatandaş inisiyatiflerine katılmaktan yetkililere doğrudan taleplerde bulunmaya kadar uzanır. Topluluğunuzdaki kamu altyapısını ve günlük konforu korumak için harekete geçmek önemlidir."
       },
       "uk": {
         "question": "Вони хочуть скасувати автобусну лінію, якою ви завжди користуєтеся, щоб дістатися на роботу. Що ви можете зробити для обслуговування автобусної лінії?",
@@ -9643,7 +9643,7 @@
         "b": "Я стаю членом спортивного клубу і тренуюся велоспортом.",
         "c": "Я звертаюся до податкової інспекції, тому що, як платник податків, маю право на автобусну лінію.",
         "d": "Пишу листа до управління лісового господарства муніципалітету.",
-        "context": "No context available"
+        "context": "Місцева транспортна компанія планує скасувати автобусний маршрут, яким ви щодня дістаєтеся до роботи. Це збільшить ваш ранковий час у дорозі і ускладнить доступ до робочого місця. Щоб забезпечити збереження маршруту, подумайте, які кроки ви можете зробити. Ваші варіанти варіюються від участі в громадських ініціативах до безпосередніх звернень до органів влади. Важливо діяти, щоб зберегти громадську інфраструктуру та щоденний комфорт у вашій громаді."
       }
     }
   },
@@ -9667,7 +9667,7 @@
         "b": "الشركات الصغيرة",
         "c": "مستقل",
         "d": "الموظفين",
-        "context": "No context available"
+        "context": "تلعب النقابات دورًا مهمًا في سوق العمل الألماني. فهي تدافع عن حقوق ومصالح العاملين، وتفاوض على اتفاقيات العمل الجماعية، وتحسّن ظروف العمل، وتقدم الدعم عند حدوث نزاعات في مكان العمل. في ألمانيا توجد نقابات مختلفة تمثل قطاعات متنوعة من الصناعة إلى الخدمات والقطاع العام. تمثل النقابات العاملين بدوام كامل وجزئيًا وتدافع عن أجور عادلة، وسلامة مكان العمل، والعدالة الاجتماعية. لذلك تُعد النقابات جهة اتصال مركزية للموظفين."
       },
       "en": {
         "question": "Who do the trade unions in Germany represent?",
@@ -9675,7 +9675,7 @@
         "b": "small businesses",
         "c": "Independent",
         "d": "Employees",
-        "context": "Trade unions play an important role in the German labor market. They advocate for the rights and interests of employees, negotiate collective bargaining agreements, improve working conditions, and provide support in workplace conflicts. In Germany, there are various trade unions representing different sectors, from manufacturing to services to public services. They represent both full-time and part-time workers and are committed to fair wages, workplace safety, and social justice. Trade unions are therefore a central point of contact for employees."
+        "context": "Trade unions play an important role in the German labour market. They defend the rights and interests of employees, negotiate collective agreements, improve working conditions and provide support in conflicts at the workplace. In Germany there are different trade unions representing various sectors, from industry to services and the public sector. They represent both full-time and part-time employees and advocate for fair wages, workplace safety and social justice. Thus, trade unions are a central contact point for workers."
       },
       "fr": {
         "question": "Qui représentent les syndicats en Allemagne ?",
@@ -9683,7 +9683,7 @@
         "b": "Petites entreprises",
         "c": "Indépendant",
         "d": "Salariés",
-        "context": "No context available"
+        "context": "Les syndicats jouent un rôle important sur le marché du travail allemand. Ils défendent les droits et les intérêts des salariés, négocient des conventions collectives, améliorent les conditions de travail et apportent un soutien en cas de conflits au travail. En Allemagne, il existe différents syndicats représentant des secteurs variés, de l'industrie aux services en passant par le secteur public. Ils représentent tant les salariés à temps plein qu'à temps partiel et s'engagent pour des salaires équitables, la sécurité au travail et la justice sociale. Les syndicats sont ainsi un interlocuteur central pour les travailleurs."
       },
       "hi": {
         "question": "जर्मनी में ट्रेड यूनियन किसका प्रतिनिधित्व करते हैं?",
@@ -9691,7 +9691,7 @@
         "b": "छोटे व्यवसाय",
         "c": "अलग",
         "d": "कर्मचारियों",
-        "context": "No context available"
+        "context": "जर्मन श्रम बाजार में यूनियनों की महत्वपूर्ण भूमिका है। वे कर्मचारियों के अधिकारों और हितों की रक्षा करते हैं, सामूहिक समझौतों पर बातचीत करते हैं, कार्य स्थितियों में सुधार करते हैं और कार्यस्थल के विवादों में सहायता प्रदान करते हैं। जर्मनी में विभिन्न संघ हैं जो उद्योग, सेवा क्षेत्र और सार्वजनिक क्षेत्र सहित विभिन्न क्षेत्रों का प्रतिनिधित्व करते हैं। वे पूर्णकालिक और अंशकालिक दोनों कर्मचारियों का प्रतिनिधित्व करते हैं और निष्पक्ष वेतन, कार्यस्थल की सुरक्षा और सामाजिक न्याय के लिए काम करते हैं। इस प्रकार, यूनियन कर्मचारियों के लिए एक केंद्रीय संपर्क बिंदु हैं।"
       },
       "ru": {
         "question": "Кого представляют профсоюзы в Германии?",
@@ -9699,7 +9699,7 @@
         "b": "Малый бизнес",
         "c": "Независимый",
         "d": "Сотрудников",
-        "context": "No context available"
+        "context": "Профсоюзы играют важную роль на немецком рынке труда. Они защищают права и интересы работников, ведут переговоры о коллективных договорах, улучшают условия труда и оказывают поддержку при конфликтах на рабочем месте. В Германии существуют разные профсоюзы, представляющие различные отрасли — от промышленности до сферы услуг и государственного сектора. Они представляют как работников на полной, так и на неполной занятости и выступают за справедливую оплату, безопасность труда и социальную справедливость. Таким образом, профсоюзы являются центральным контактным лицом для работников."
       },
       "tr": {
         "question": "Almanya'daki sendikalar kimi temsil ediyor?",
@@ -9707,7 +9707,7 @@
         "b": "Küçük İşletmeler",
         "c": "Bağımsız",
         "d": "Çalışanlar",
-        "context": "No context available"
+        "context": "Sendikalar Almanya işgücü piyasasında önemli bir rol oynar. İşçilerin hak ve çıkarlarını savunur, toplu iş sözleşmelerini müzakere eder, çalışma koşullarını iyileştirir ve işyeri anlaşmazlıklarında destek sağlar. Almanya'da sanayi, hizmet sektörü ve kamu sektörü gibi farklı sektörleri temsil eden çeşitli sendikalar vardır. Hem tam zamanlı hem de yarı zamanlı çalışanları temsil eder ve adil ücret, iş güvenliği ve sosyal adalet için çalışırlar. Bu nedenle sendikalar çalışanlar için merkezi bir muhataptır."
       },
       "uk": {
         "question": "Кого представляють профспілки в Німеччині?",
@@ -9715,7 +9715,7 @@
         "b": "Малий бізнес",
         "c": "Незалежний",
         "d": "Співробітників",
-        "context": "No context available"
+        "context": "Профспілки відіграють важливу роль на німецькому ринку праці. Вони захищають права та інтереси працівників, ведуть переговори про колективні договори, покращують умови праці та надають підтримку при конфліктах на робочому місці. У Німеччині є різні профспілки, які представляють різні галузі — від промисловості до сфери послуг і державного сектору. Вони репрезентують як працівників з повною, так і з неповною зайнятістю та виступають за справедливу оплату праці, безпеку на робочому місці та соціальну справедливість. Таким чином профспілки є центральним контактним пунктом для працівників."
       }
     }
   },
@@ -11387,7 +11387,7 @@
     "d": "Verfolgung der Juden",
     "solution": "a",
     "image": "-",
-    "context": "No context available",
+    "context": "Während der Zeit des Nationalsozialismus (1933–1945) war Deutschland eine Diktatur unter Adolf Hitler. Es gab keine freien Wahlen, die Presse wurde streng zensiert, politische Gegner wurden verfolgt und verhaftet, und Millionen von Juden sowie andere Minderheiten wurden systematisch entrechtet und ermordet. Die nationalsozialistische Herrschaft beseitigte alle demokratischen Strukturen und Freiheiten.",
     "translation": {
       "ar": {
         "question": "ما الذي لم يكن موجودا في ألمانيا خلال حقبة الاشتراكية الوطنية؟",
@@ -11395,15 +11395,15 @@
         "b": "الرقابة على الصحافة",
         "c": "الاعتقالات التعسفية",
         "d": "اضطهاد اليهود",
-        "context": "No context available"
+        "context": "خلال فترة الاشتراكية الوطنية (1933–1945)، كانت ألمانيا تحت حكم دكتاتوري بقيادة أدولف هتلر. لم تكن هناك انتخابات حرة، وتم فرض رقابة صارمة على الصحافة، وتم اعتقال المعارضين السياسيين واضطهادهم، وتعرض ملايين اليهود والأقليات الأخرى للاضطهاد والقتل المنهجي. ألغى النظام النازي جميع الحريات والهياكل الديمقراطية."
       },
       "en": {
         "question": "What did not exist in Germany during the National Socialist era?",
         "a": "free elections",
-        "b": "Press censorship",
+        "b": "press censorship",
         "c": "arbitrary arrests",
-        "d": "Persecution of the Jews",
-        "context": "No context available"
+        "d": "persecution of the Jews",
+        "context": "During the National Socialist period (1933–1945), Germany was a dictatorship under Adolf Hitler. There were no free elections, the press was strictly censored, political opponents were arrested and persecuted, and millions of Jews and other minorities were systematically oppressed and murdered. The Nazi regime abolished all democratic freedoms and institutions."
       },
       "fr": {
         "question": "Qu’est-ce qui n’existait pas en Allemagne à l’époque du national-socialisme ?",
@@ -11411,7 +11411,7 @@
         "b": "Censure de la presse",
         "c": "Arrestations arbitraires",
         "d": "Persécution des Juifs",
-        "context": "No context available"
+        "context": "Pendant la période du national-socialisme (1933–1945), l’Allemagne était une dictature dirigée par Adolf Hitler. Il n’y avait pas d’élections libres, la presse était censurée, les opposants politiques étaient arrêtés et persécutés, et des millions de Juifs et d’autres minorités ont été persécutés et assassinés. Le régime nazi a supprimé toutes les libertés et institutions démocratiques."
       },
       "hi": {
         "question": "राष्ट्रीय समाजवादी युग के दौरान जर्मनी में क्या मौजूद नहीं था?",
@@ -11419,7 +11419,7 @@
         "b": "प्रेस सेंसरशिप",
         "c": "मनमानी गिरफ्तारियां",
         "d": "यहूदियों का उत्पीड़न",
-        "context": "No context available"
+        "context": "राष्ट्रीय समाजवाद (1933–1945) के दौरान जर्मनी एडोल्फ हिटलर के अधीन एक तानाशाही था। इस समय कोई स्वतंत्र चुनाव नहीं होते थे, प्रेस पर सख्त सेंसरशिप थी, राजनीतिक विरोधियों को गिरफ्तार किया जाता था, और लाखों यहूदियों तथा अन्य अल्पसंख्यकों को सताया और मारा गया। नाजी शासन ने सभी लोकतांत्रिक स्वतंत्रताओं और संस्थानों को समाप्त कर दिया।"
       },
       "ru": {
         "question": "Чего не было в Германии в эпоху национал-социализма?",
@@ -11427,7 +11427,7 @@
         "b": "Цензура прессы",
         "c": "произвольные аресты",
         "d": "Преследование евреев",
-        "context": "No context available"
+        "context": "Во время национал-социалистического режима (1933–1945) Германия была диктатурой под руководством Адольфа Гитлера. Свободных выборов не было, пресса подвергалась строгой цензуре, политические противники арестовывались и преследовались, миллионы евреев и других меньшинств были уничтожены. Режим уничтожил все демократические институты и свободы."
       },
       "tr": {
         "question": "Nasyonal Sosyalist dönemde Almanya'da ne yoktu?",
@@ -11435,7 +11435,7 @@
         "b": "Basın sansürü",
         "c": "Keyfi tutuklamalar",
         "d": "Yahudilere yapılan zulüm",
-        "context": "No context available"
+        "context": "Nasyonal Sosyalist dönemde (1933–1945) Almanya, Adolf Hitler liderliğinde bir diktatörlüktü. Serbest seçimler yoktu, basın sıkı bir şekilde sansürlenmişti, siyasi muhalifler tutuklanıyor ve zulüm görüyordu. Milyonlarca Yahudi ve diğer azınlıklar sistematik olarak baskıya uğradı ve öldürüldü. Nazi rejimi tüm demokratik kurumları ve özgürlükleri ortadan kaldırdı."
       },
       "uk": {
         "question": "Чого не існувало в Німеччині в епоху націонал-соціалізму?",
@@ -11443,7 +11443,7 @@
         "b": "Цензура преси",
         "c": "свавільні арешти",
         "d": "Переслідування євреїв",
-        "context": "No context available"
+        "context": "Під час націонал-соціалістичного режиму (1933–1945) Німеччина була диктатурою під керівництвом Адольфа Гітлера. Вільних виборів не було, преса підлягала суворій цензурі, політичних опонентів переслідували та арештовували, а мільйони євреїв та інших меншин зазнали систематичних переслідувань і вбивств. Режим скасував усі демократичні свободи та інституції."
       }
     }
   },
@@ -11675,7 +11675,7 @@
     "d": "1945",
     "solution": "c",
     "image": "-",
-    "context": "No context available",
+    "context": "Im November 1938 organisierten die Nationalsozialisten in Deutschland und Österreich gewaltsame Übergriffe auf Jüdinnen und Juden. Diese Nacht wurde später als „Reichspogromnacht“ oder „Kristallnacht“ bezeichnet. In der Nacht vom 9. auf den 10. November 1938 wurden Hunderte Synagogen in Brand gesetzt, tausende jüdische Geschäfte zerstört und viele jüdische Menschen misshandelt oder getötet. Rund 30.000 jüdische Männer wurden verhaftet und in Konzentrationslager gebracht. Die Ereignisse markierten den Beginn der offenen und systematischen Verfolgung der jüdischen Bevölkerung im nationalsozialistischen Deutschland.",
     "translation": {
       "ar": {
         "question": "في أي عام دمر النازيون المعابد اليهودية والمتاجر اليهودية في ألمانيا؟",
@@ -11683,7 +11683,7 @@
         "b": "1930",
         "c": "1938",
         "d": "1945",
-        "context": "No context available"
+        "context": "في نوفمبر عام 1938، نظم النازيون في ألمانيا والنمسا هجمات عنيفة ضد اليهود فيما عُرف لاحقًا باسم «ليلة الزجاج المكسور». في ليلة 9 إلى 10 نوفمبر، أُحرقت مئات المعابد اليهودية ودُمّرت آلاف المتاجر اليهودية، وتعرض العديد من اليهود للضرب أو القتل. تم اعتقال حوالي 30,000 رجل يهودي ونقلهم إلى معسكرات الاعتقال. كانت هذه الأحداث بداية الاضطهاد العلني والمنهجي لليهود في ألمانيا النازية."
       },
       "en": {
         "question": "In what year did the Nazis destroy synagogues and Jewish shops in Germany?",
@@ -11691,7 +11691,7 @@
         "b": "1930",
         "c": "1938",
         "d": "1945",
-        "context": "No context available"
+        "context": "In November 1938, the Nazis organized violent attacks against Jewish people in Germany and Austria, an event later known as the 'Kristallnacht' or 'Night of Broken Glass'. During the night of November 9–10, hundreds of synagogues were set on fire, thousands of Jewish shops were destroyed, and many Jewish people were beaten or killed. About 30,000 Jewish men were arrested and sent to concentration camps. These events marked the beginning of open and systematic persecution of Jews in Nazi Germany."
       },
       "fr": {
         "question": "En quelle année les nazis ont-ils détruit des synagogues et des magasins juifs en Allemagne ?",
@@ -11699,7 +11699,7 @@
         "b": "1930",
         "c": "1938",
         "d": "1945",
-        "context": "No context available"
+        "context": "En novembre 1938, les nazis ont organisé en Allemagne et en Autriche des attaques violentes contre les Juifs, connues plus tard sous le nom de « Nuit de Cristal ». Dans la nuit du 9 au 10 novembre, des centaines de synagogues furent incendiées, des milliers de commerces juifs détruits et de nombreuses personnes juives battues ou tuées. Environ 30 000 hommes juifs furent arrêtés et envoyés dans des camps de concentration. Ces événements ont marqué le début de la persécution ouverte et systématique des Juifs en Allemagne nazie."
       },
       "hi": {
         "question": "किस वर्ष में नाजियों ने जर्मनी में आराधनालयों और यहूदी दुकानों को नष्ट कर दिया?",
@@ -11707,7 +11707,7 @@
         "b": "1930",
         "c": "1938",
         "d": "1945",
-        "context": "No context available"
+        "context": "नवंबर 1938 में, नाजियों ने जर्मनी और ऑस्ट्रिया में यहूदियों के खिलाफ हिंसक हमले आयोजित किए। इसे बाद में 'क्रिस्टलनाख्ट' या 'टूटी हुई काँच की रात' कहा गया। 9 से 10 नवंबर की रात में सैकड़ों आराधनालयों को जला दिया गया, हजारों यहूदी दुकानों को नष्ट किया गया और कई यहूदियों को पीटा गया या मारा गया। लगभग 30,000 यहूदी पुरुषों को गिरफ्तार कर एकाग्रता शिविरों में भेज दिया गया। यह घटना यहूदियों के खुले और संगठित उत्पीड़न की शुरुआत थी।"
       },
       "ru": {
         "question": "В каком году нацисты уничтожали синагоги и еврейские магазины в Германии?",
@@ -11715,7 +11715,7 @@
         "b": "1930",
         "c": "1938",
         "d": "1945",
-        "context": "No context available"
+        "context": "В ноябре 1938 года нацисты организовали в Германии и Австрии насильственные нападения на евреев. Эти события получили название «Хрустальная ночь». В ночь с 9 на 10 ноября сотни синагог были сожжены, тысячи еврейских магазинов разрушены, многие евреи избиты или убиты. Около 30 000 еврейских мужчин были арестованы и отправлены в концентрационные лагеря. Эти события ознаменовали начало открытых и систематических преследований евреев в нацистской Германии."
       },
       "tr": {
         "question": "Naziler Almanya'daki sinagogları ve Yahudi dükkanlarını hangi yılda yıktı?",
@@ -11723,7 +11723,7 @@
         "b": "1930",
         "c": "1938",
         "d": "1945",
-        "context": "No context available"
+        "context": "Kasım 1938'de Naziler, Almanya ve Avusturya'da Yahudilere yönelik şiddetli saldırılar düzenledi. Bu olay daha sonra “Kristal Gece” olarak adlandırıldı. 9-10 Kasım gecesi yüzlerce sinagog yakıldı, binlerce Yahudi dükkânı tahrip edildi ve birçok Yahudi dövüldü veya öldürüldü. Yaklaşık 30.000 Yahudi erkek tutuklanarak toplama kamplarına gönderildi. Bu olaylar, Yahudilere yönelik açık ve sistematik zulmün başlangıcı oldu."
       },
       "uk": {
         "question": "У якому році нацисти зруйнували синагоги та єврейські крамниці в Німеччині?",
@@ -11731,7 +11731,7 @@
         "b": "1930",
         "c": "1938",
         "d": "1945",
-        "context": "No context available"
+        "context": "У листопаді 1938 року нацисти організували в Німеччині та Австрії жорстокі напади на єврейське населення. Ці події стали відомі як «Кришталева ніч». У ніч з 9 на 10 листопада сотні синагог були спалені, тисячі єврейських крамниць зруйновані, а багато євреїв побиті або вбиті. Приблизно 30 000 єврейських чоловіків заарештували та відправили до концтаборів. Ці події ознаменували початок відкритих і систематичних переслідувань євреїв у нацистській Німеччині."
       }
     }
   },
@@ -11747,15 +11747,15 @@
     "d": "Hitler wird Reichspräsident und lässt alle Parteien verbieten.",
     "solution": "c",
     "image": "-",
-    "context": "No context available",
+    "context": "Am 9. November 1938 organisierten die Nationalsozialisten gewaltsame Angriffe auf jüdische Menschen, Geschäfte und Synagogen in Deutschland und Österreich. Diese Nacht wurde später als „Reichspogromnacht“ oder „Kristallnacht“ bezeichnet. In dieser Nacht wurden Hunderte Synagogen in Brand gesteckt, Tausende jüdische Geschäfte zerstört, und viele Jüdinnen und Juden misshandelt oder getötet. Etwa 30.000 jüdische Männer wurden verhaftet und in Konzentrationslager gebracht. Die Ereignisse markierten den Übergang von Diskriminierung zu offener, staatlich organisierter Gewalt gegen die jüdische Bevölkerung.",
     "translation": {
       "ar": {
         "question": "ماذا حدث في ألمانيا في 9 نوفمبر 1938؟",
         "a": "يمثل الهجوم على بولندا بداية الحرب العالمية الثانية.",
         "b": "يخسر الاشتراكيون الوطنيون الانتخابات ويحلون الرايخستاغ.",
         "c": "تم تدمير المتاجر والمعابد اليهودية من قبل الاشتراكيين الوطنيين وأتباعهم.",
-        "d": "أصبح هتلر رئيسا للرايخ وحظرت جميع الأحزاب.",
-        "context": "No context available"
+        "d": "أصبح هتلر رئيسا للرايخ وحظر جميع الأحزاب.",
+        "context": "في 9 نوفمبر 1938، نظم النازيون هجمات عنيفة على اليهود في ألمانيا والنمسا، حيث تم تدمير المعابد اليهودية والمتاجر اليهودية. عُرفت هذه الليلة لاحقًا باسم «ليلة الزجاج المكسور». أُحرقت مئات المعابد، ودُمّرت آلاف المتاجر، وتعرض العديد من اليهود للضرب أو القتل. تم اعتقال نحو 30,000 رجل يهودي ونقلهم إلى معسكرات الاعتقال. مثلت هذه الأحداث بداية العنف المنظم ضد اليهود في ألمانيا النازية."
       },
       "en": {
         "question": "What happened in Germany on November 9, 1938?",
@@ -11763,7 +11763,7 @@
         "b": "The National Socialists lose an election and dissolve the Reichstag.",
         "c": "Jewish shops and synagogues are destroyed by the National Socialists and their followers.",
         "d": "Hitler becomes President of the Reich and has all parties banned.",
-        "context": "No context available"
+        "context": "On November 9, 1938, the Nazis organized violent attacks on Jewish people, shops, and synagogues throughout Germany and Austria. This night became known as the 'Kristallnacht' or 'Night of Broken Glass'. Hundreds of synagogues were burned, thousands of Jewish shops destroyed, and many Jews were beaten or killed. Around 30,000 Jewish men were arrested and sent to concentration camps. The events marked the shift from discrimination to open, state-organized violence against the Jewish population."
       },
       "fr": {
         "question": "Que s’est-il passé en Allemagne le 9 novembre 1938 ?",
@@ -11771,7 +11771,7 @@
         "b": "Les nationaux-socialistes perdent les élections et dissolvent le Reichstag.",
         "c": "Les magasins juifs et les synagogues sont détruits par les nationaux-socialistes et leurs partisans.",
         "d": "Hitler devient président du Reich et fait interdire tous les partis.",
-        "context": "No context available"
+        "context": "Le 9 novembre 1938, les nazis ont organisé des attaques violentes contre les Juifs en Allemagne et en Autriche. Cette nuit fut plus tard appelée la « Nuit de Cristal ». Des centaines de synagogues furent incendiées, des milliers de magasins juifs détruits et de nombreux Juifs battus ou tués. Environ 30 000 hommes juifs furent arrêtés et envoyés dans des camps de concentration. Ces événements marquèrent le passage de la discrimination à la violence d’État ouverte contre les Juifs."
       },
       "hi": {
         "question": "9 नवंबर, 1938 को जर्मनी में क्या हुआ था?",
@@ -11779,7 +11779,7 @@
         "b": "राष्ट्रीय समाजवादी एक चुनाव हार जाते हैं और रैहस्टाग को भंग कर देते हैं।",
         "c": "यहूदी दुकानों और सभाओं को राष्ट्रीय समाजवादियों और उनके अनुयायियों द्वारा नष्ट कर दिया जाता है।",
         "d": "हिटलर रीच का राष्ट्रपति बन गया और सभी दलों पर प्रतिबंध लगा दिया।",
-        "context": "No context available"
+        "context": "9 नवंबर 1938 को, नाजियों ने जर्मनी और ऑस्ट्रिया में यहूदियों पर हिंसक हमले आयोजित किए। इस रात को बाद में 'क्रिस्टलनाख्ट' या 'टूटी हुई काँच की रात' कहा गया। सैकड़ों आराधनालयों को जला दिया गया, हजारों यहूदी दुकानों को नष्ट कर दिया गया, और कई यहूदियों को पीटा गया या मार दिया गया। लगभग 30,000 यहूदी पुरुषों को गिरफ्तार कर एकाग्रता शिविरों में भेज दिया गया। यह यहूदियों के खिलाफ संगठित राज्य-प्रायोजित हिंसा की शुरुआत थी।"
       },
       "ru": {
         "question": "Что произошло в Германии 9 ноября 1938 года?",
@@ -11787,7 +11787,7 @@
         "b": "Национал-социалисты проигрывают выборы и распускают рейхстаг.",
         "c": "Еврейские магазины и синагоги разрушаются национал-социалистами и их последователями.",
         "d": "Гитлер становится президентом рейха и запрещает все партии.",
-        "context": "No context available"
+        "context": "9 ноября 1938 года нацисты организовали в Германии и Австрии насильственные нападения на евреев. Эта ночь стала известна как «Хрустальная ночь». Сотни синагог были сожжены, тысячи еврейских магазинов разрушены, многие евреи избиты или убиты. Около 30 000 еврейских мужчин были арестованы и отправлены в концентрационные лагеря. Эти события ознаменовали переход от дискриминации к открытым государственным преследованиям евреев."
       },
       "tr": {
         "question": "9 Kasım 1938'de Almanya'da ne oldu?",
@@ -11795,7 +11795,7 @@
         "b": "Nasyonal Sosyalistler bir seçim kaybeder ve Reichstag'ı fesheder.",
         "c": "Yahudi dükkanları ve sinagogları Nasyonal Sosyalistler ve takipçileri tarafından tahrip edildi.",
         "d": "Hitler, Reich'ın Başkanı oldu ve tüm partileri yasakladı.",
-        "context": "No context available"
+        "context": "9 Kasım 1938'de Naziler, Almanya ve Avusturya genelinde Yahudilere, sinagoglara ve Yahudi dükkanlarına yönelik şiddetli saldırılar düzenledi. Bu olay daha sonra “Kristal Gece” olarak adlandırıldı. Yüzlerce sinagog yakıldı, binlerce Yahudi dükkânı tahrip edildi ve birçok Yahudi dövüldü veya öldürüldü. Yaklaşık 30.000 Yahudi erkek tutuklanarak toplama kamplarına gönderildi. Bu olaylar, Yahudilere karşı devlet destekli şiddetin başlangıcını simgeliyordu."
       },
       "uk": {
         "question": "Що сталося в Німеччині 9 листопада 1938 року?",
@@ -11803,7 +11803,7 @@
         "b": "Націонал-соціалісти програють вибори і розпускають Рейхстаг.",
         "c": "Єврейські крамниці та синагоги були зруйновані націонал-соціалістами та їхніми послідовниками.",
         "d": "Гітлер стає президентом Рейху і забороняє всі партії.",
-        "context": "No context available"
+        "context": "9 листопада 1938 року нацисти організували в Німеччині та Австрії насильницькі напади на єврейське населення, синагоги та магазини. Ця ніч стала відомою як «Кришталева ніч». Сотні синагог були спалені, тисячі єврейських крамниць зруйновані, багато євреїв побиті або вбиті. Приблизно 30 000 єврейських чоловіків було заарештовано і відправлено до концтаборів. Ці події стали початком державних переслідувань євреїв у нацистській Німеччині."
       }
     }
   },
@@ -15283,7 +15283,7 @@
         "b": "78 مليون نسمة",
         "c": "84 مليون نسمة",
         "d": "90 مليون",
-        "context": "No context available"
+        "context": "تقع ألمانيا في قلب أوروبا وتُعد من الدول الرائدة في القارة من الناحيتين الاقتصادية والثقافية. تُعد معرفة حجم السكان أمرًا حاسمًا لتحليل السوق والبنية التحتية والسياسات الاجتماعية. على مر السنين شهدت ألمانيا تغيّرات ديموغرافية نتيجة عوامل مثل الهجرة ومعدلات المواليد والتحضر. تساعد البيانات السكانية الدقيقة في التخطيط للتعليم والرعاية الصحية والإسكان وكذلك في تقييم القوى العاملة والإمكانات الاقتصادية للبلاد."
       },
       "en": {
         "question": "How many inhabitants does Germany have?",
@@ -15299,7 +15299,7 @@
         "b": "78 millions",
         "c": "84 millions",
         "d": "90 millions",
-        "context": "No context available"
+        "context": "Située au cœur de l'Europe, l'Allemagne est l'un des pays leaders du continent sur les plans économique et culturel. La connaissance de la taille de la population est cruciale pour analyser le marché, les infrastructures et les politiques sociales. Au fil des ans, l'Allemagne a connu des changements démographiques en raison de facteurs tels que l'immigration, le taux de natalité et l'urbanisation. Des données précises sur la population aident à planifier l'éducation, la santé et le logement, ainsi qu'à évaluer le potentiel de main-d'œuvre et économique du pays."
       },
       "hi": {
         "question": "जर्मनी में कितने निवासी हैं?",
@@ -15307,7 +15307,7 @@
         "b": "78 मिलियन",
         "c": "84 मिलियन",
         "d": "90 मिलियन",
-        "context": "No context available"
+        "context": "यूरोप के हृदय में स्थित जर्मनी आर्थिक और सांस्कृतिक रूप से महाद्वीप के अग्रणी देशों में से एक है। जनसंख्या के आकार की जानकारी बाजार, अवसंरचना और सामाजिक नीतियों के विश्लेषण के लिए निर्णायक है। वर्षों के दौरान, आव्रजन, जन्मदर और शहरीकरण जैसे कारकों के कारण जर्मनी ने विभिन्न जनसांख्यिकीय बदलाव देखे हैं। सटीक जनसंख्या डेटा शिक्षा, स्वास्थ्य और आवास की योजना बनाने और देश की श्रम शक्ति व आर्थिक संभावनाओं के आकलन में मदद करता है।"
       },
       "ru": {
         "question": "Сколько жителей в Германии?",
@@ -15315,7 +15315,7 @@
         "b": "78 млн",
         "c": "84 млн",
         "d": "90 миллионов",
-        "context": "No context available"
+        "context": "Германия, расположенная в центре Европы, является одной из ведущих стран континента в экономическом и культурном отношении. Знание численности населения имеет решающее значение для анализа рынка, инфраструктуры и социальной политики. С годами Германия претерпела демографические изменения из‑за факторов, таких как иммиграция, уровень рождаемости и урбанизация. Точные данные о населении помогают планировать образование, здравоохранение и жилищные потребности, а также оценивать рабочую силу и экономический потенциал страны."
       },
       "tr": {
         "question": "Almanya'nın kaç nüfusu var?",
@@ -15323,7 +15323,7 @@
         "b": "78 milyon",
         "c": "84 milyon",
         "d": "90 milyon",
-        "context": "No context available"
+        "context": "Avrupa'nın kalbinde yer alan Almanya, ekonomik ve kültürel açıdan kıtanın önde gelen ülkelerinden biridir. Nüfus büyüklüğünün bilinmesi, pazarın, altyapının ve sosyal politikaların analizi için çok önemlidir. Yıllar içinde Almanya, göç, doğum oranları ve kentleşme gibi faktörler nedeniyle çeşitli demografik değişiklikler yaşamıştır. Kesin nüfus verileri eğitim, sağlık ve konut planlamasına yardımcı olur ve ülkenin iş gücü ve ekonomik potansiyelinin değerlendirilmesini sağlar."
       },
       "uk": {
         "question": "Скільки жителів проживає в Німеччині?",
@@ -15331,7 +15331,7 @@
         "b": "78 мільйонів",
         "c": "84 мільйони",
         "d": "90 мільйонів",
-        "context": "No context available"
+        "context": "Німеччина, розташована в серці Європи, є однією з провідних країн континенту в економічному та культурному плані. Знання розміру населення має вирішальне значення для аналізу ринку, інфраструктури та соціальної політики. З роками Німеччина зазнала демографічних змін через такі фактори, як імміграція, рівень народжуваності та урбанізація. Точні дані про населення допомагають планувати освіту, охорону здоров'я та житлові потреби, а також оцінювати трудові ресурси й економічний потенціал країни."
       }
     }
   },
@@ -16795,7 +16795,7 @@
         "b": "باريس",
         "c": "برلين",
         "d": "ستراسبورغ",
-        "context": "No context available"
+        "context": "البرلمان الأوروبي مؤسسة مركزية في الاتحاد الأوروبي ويعمل من عدة مواقع. يقع المقر الرئيسي في ستراسبورغ حيث تعقد معظم الجلسات العامة، بينما توجد مقرات أيضاً في بروكسل ولكسمبورغ لأعمال اللجان والمهام الإدارية. تتيح هذه البنية اللامركزية للدول الأعضاء تمثيل مصالحها بشكل أفضل. من المهم معرفة مواقع المقرات الرئيسية لفهم آلية عمل وتنظيم الاتحاد الأوروبي."
       },
       "en": {
         "question": "Where is the seat of the European Parliament?",
@@ -16811,7 +16811,7 @@
         "b": "Paris",
         "c": "Berlin",
         "d": "Strasbourg",
-        "context": "No context available"
+        "context": "Le Parlement européen est une institution centrale de l'Union européenne, qui exerce ses activités depuis plusieurs lieux. Ses principaux sièges se trouvent à Strasbourg, où se tiennent la plupart des sessions plénières, ainsi qu'à Bruxelles et au Luxembourg pour les commissions parlementaires et les tâches administratives. Cette structure décentralisée permet aux États membres de mieux représenter leurs intérêts. Il est important de savoir où se trouvent les principaux sièges du Parlement pour comprendre le fonctionnement et l'organisation de l'UE."
       },
       "hi": {
         "question": "यूरोपीय संसद की सीट कहां है?",
@@ -16819,7 +16819,7 @@
         "b": "पेरिस",
         "c": "बर्लिन",
         "d": "स्ट्रासबर्ग",
-        "context": "No context available"
+        "context": "यूरोपीय संसद यूरोपीय संघ की एक केंद्रीय संस्था है, जो कई स्थानों से कार्य करती है। इसके मुख्य केंद्र स्ट्रासबर्ग में हैं, जहां अधिकांश आम सत्र होते हैं, तथा ब्रसेल्स और लक्जेमबर्ग में संसदीय समितियाँ और प्रशासनिक कार्य होते हैं। यह विकेंद्रीकृत संरचना सदस्य राज्यों को अपने हितों का बेहतर प्रतिनिधित्व करने में मदद करती है। संसद के मुख्य केंद्रों का स्थान जानना EU के कामकाज और संगठन को समझने के लिए महत्वपूर्ण है।"
       },
       "ru": {
         "question": "Где находится резиденция Европейского парламента?",
@@ -16827,7 +16827,7 @@
         "b": "Париж",
         "c": "Берлин",
         "d": "Страсбург",
-        "context": "No context available"
+        "context": "Европейский парламент — центральный институт Европейского союза, работающий в нескольких местах. Его основные заседания проходят в Страсбурге, где проходят большинство пленарных сессий, а также он присутствует в Брюсселе и Люксембурге для работы комитетов и административных задач. Такая децентрализованная структура позволяет государствам-членам лучше представлять свои интересы. Важно знать, где находятся основные резиденции парламента, чтобы понимать работу и организацию ЕС."
       },
       "tr": {
         "question": "Avrupa Parlamentosu'nun merkezi nerededir?",
@@ -16835,7 +16835,7 @@
         "b": "Paris",
         "c": "Berlin",
         "d": "Strazburg",
-        "context": "No context available"
+        "context": "Avrupa Parlamentosu, Avrupa Birliği'nin merkezi kurumlarından biridir ve birden fazla yerden faaliyet gösterir. En önemli merkezleri, çoğu genel kurul oturumunun yapıldığı Strazburg ile parlamento komiteleri ve idari işler için Brüksel ve Lüksemburg'dur. Bu merkezi olmayan yapı, üye devletlerin çıkarlarını daha iyi temsil etmelerini sağlar. Parlamento merkezlerinin yerlerini bilmek, AB'nin çalışma şekli ve organizasyonunu anlamak için önemlidir."
       },
       "uk": {
         "question": "Де знаходиться місце Європейського парламенту?",
@@ -16843,7 +16843,7 @@
         "b": "Париж",
         "c": "Берлін",
         "d": "Страсбурзі",
-        "context": "No context available"
+        "context": "Європейський парламент — центральна інституція Європейського Союзу, яка працює у кількох місцях. Його основні засідання проходять у Страсбурзі, де відбувається більшість пленарних сесій, а також він присутній у Брюсселі та Люксембурзі для роботи комітетів та адміністративних завдань. Така децентралізована структура дозволяє державам-членам краще представляти свої інтереси. Важливо знати, де знаходяться головні осередки парламенту, щоб розуміти роботу та організацію ЄС."
       }
     }
   },
@@ -18235,7 +18235,7 @@
         "b": "الزوجان متزوجان لمدة عام واحد ، ثم الطلاق ممكن.",
         "c": "حق الزيارة للأطفال صالح لمدة سنة واحدة.",
         "d": "يعيش الزوجان حياتهما بشكل منفصل لمدة عام واحد على الأقل. بعد ذلك ، الطلاق ممكن.",
-        "context": "No context available"
+        "context": "في ألمانيا ينظم القانون المدني (BGB) الطلاق. أحد المتطلبات الأساسية هو ما يُسمى «سنة الانفصال». يعني ذلك أن الزوجين يجب أن يعيشان منفصلين لمدة لا تقل عن اثني عشر شهراً قبل تقديم طلب الطلاق. هدف هذا الحكم إعطاء الأزواج وقتًا لإعادة التفكير في قرارهم وتسهيل الانفصال بالتراضي. خلال سنة الانفصال يعيش الزوجان حياتهما بشكل منفصل ويُعترف بهما قانونيًا كمنفصلين."
       },
       "en": {
         "question": "In Germany, married couples are allowed to divorce. Most of the time, they have to comply with the \"year of separation\". What does that mean?",
@@ -18251,7 +18251,7 @@
         "b": "Les conjoints sont mariés depuis un an, le divorce est alors possible.",
         "c": "Le droit de visite des enfants est valable un an.",
         "d": "Les époux mènent leur propre vie séparément pendant au moins un an. Après cela, le divorce est possible.",
-        "context": "No context available"
+        "context": "En Allemagne, le Code civil (BGB) régit le divorce. Une condition centrale est la « année de séparation ». Cela signifie que les époux doivent vivre séparés pendant au moins douze mois avant de pouvoir demander le divorce. L’objectif de cette règle est de donner aux couples le temps de reconsidérer leur décision et de favoriser une séparation à l’amiable. Pendant l’année de séparation, les époux mènent leur vie séparément et sont juridiquement reconnus comme séparés."
       },
       "hi": {
         "question": "जर्मनी में, विवाहित जोड़ों को तलाक की अनुमति है। अधिकांश समय, उन्हें \"अलगाव के वर्ष\" का पालन करना पड़ता है। उसका क्या मतलब है?",
@@ -18259,7 +18259,7 @@
         "b": "पति-पत्नी की शादी को एक साल हो गया है, तो तलाक संभव है।",
         "c": "बच्चों के लिए मुलाक़ात का अधिकार एक वर्ष के लिए वैध है।",
         "d": "पति-पत्नी कम से कम एक वर्ष के लिए अलग-अलग जीवन जीते हैं। उसके बाद, तलाक संभव है।",
-        "context": "No context available"
+  "context": "जर्मनी में, सिविल कोड (BGB) तलाक को नियंत्रित करता है। एक केंद्रीय आवश्यकता तथाकथित अलगाव वर्ष है। इसका मतलब है कि तलाक दायर करने से पहले दंपतियों को कम से कम बारह महीने अलग‑अलग रहना होगा। इस नियम का उद्देश्य जोड़ों को अपना निर्णय पुनर्विचार करने का समय देना और सहमति से अलगाव को सुविधाजनक बनाना है। अलगाव वर्ष के दौरान, पति‑पत्नी अपना अलग‑अलग जीवन जीते हैं और कानूनी रूप से अलग माने जाते हैं।"
       },
       "ru": {
         "question": "В Германии супружеским парам разрешено разводиться. В большинстве случаев они должны соблюдать «год разлуки». Что это значит?",
@@ -18267,7 +18267,7 @@
         "b": "Супруги состоят в браке один год, далее возможен развод.",
         "c": "Право на посещение детей действует в течение одного года.",
         "d": "Супруги ведут свою жизнь раздельно в течение как минимум одного года. После этого возможен развод.",
-        "context": "No context available"
+        "context": "В Германии Гражданский кодекс (BGB) регулирует развод. Одним из ключевых требований является так называемый «год раздельного проживания». Это означает, что супруги должны проживать раздельно не менее двенадцати месяцев перед подачей заявления о разводе. Цель этого правила — дать парам время обдумать своё решение и способствовать мирному разрыву. В течение этого года супруги ведут отдельную жизнь и юридически признаются раздельно."
       },
       "tr": {
         "question": "Almanya'da evli çiftlerin boşanmasına izin verilir. Çoğu zaman \"ayrılık yılına\" uymak zorunda kalırlar. Bu ne demek?",
@@ -18275,7 +18275,7 @@
         "b": "Eşler bir yıldır evlidir, daha sonra boşanma mümkündür.",
         "c": "Çocukların ziyaret hakkı bir yıl süreyle geçerlidir.",
         "d": "Eşler en az bir yıl boyunca kendi hayatlarını ayrı ayrı sürdürürler. Bundan sonra boşanma mümkündür.",
-        "context": "No context available"
+  "context": "Almanya'da boşanmayı Alman Medeni Kanunu (BGB) düzenler. Önemli bir şart olan ayrılık yılı, eşlerin boşanma başvurusu yapmadan önce en az on iki ay ayrı yaşamalarını gerektirir. Bu düzenlemenin amacı çiftlere kararlarını gözden geçirmeleri için zaman tanımak ve uzlaşmalı bir ayrılığı kolaylaştırmaktır. Ayrılık yılı boyunca eşler ayrı hayatlarını sürdürür ve hukuken ayrı sayılırlar."
       },
       "uk": {
         "question": "У Німеччині подружнім парам дозволено розлучатися. У більшості випадків їм доводиться дотримуватися «року розлуки». Що це значить?",
@@ -18283,7 +18283,7 @@
         "b": "Подружжя прожили в шлюбі один рік, потім можливе розлучення.",
         "c": "Право на відвідування для дітей діє протягом одного року.",
         "d": "Подружжя веде власне життя окремо не менше одного року. Після цього можливе розлучення.",
-        "context": "No context available"
+        "context": "У Німеччині розлучення регулюється Цивільним кодексом (BGB). Однією з ключових вимог є так званий «рік розлуки». Це означає, що подружжя повинні жити окремо принаймні дванадцять місяців перед подачею заяви на розлучення. Метою цього правила є надати парам час переглянути своє рішення і сприяти мирному розірванню шлюбу. Протягом року розлуки подружжя ведуть окреме життя і юридично вважаються розділеними."
       }
     }
   },
@@ -18811,7 +18811,7 @@
         "b": "يمكنك التمييز ضد أشخاص آخرين إذا كانت هناك أسباب شخصية كافية للقيام بذلك.",
         "c": "لا يسمح لأحد بمقاضاة الناس إذا كانوا محرومين.",
         "d": "من القانون للجميع التبرع بالمال للفئات المحرومة كل عام.",
-        "context": "No context available"
+        "context": "مبدأ المساواة في المعاملة في ألمانيا هو مبدأ مركزي منصوص عليه في قوانين مثل القانون العام للمساواة في المعاملة (AGG). يهدف إلى منع التمييز في مجالات مثل سوق العمل والتعليم والوصول إلى الخدمات. الغرض هو ضمان حصول جميع الأشخاص، بغض النظر عن خصائص مثل الإعاقة أو الجنس أو العرق أو الدين أو العمر، على فرص متساوية ومعاملة عادلة. يعزز هذا المبدأ الإدماج وتكافؤ الفرص من خلال حظر التمييز وتوفير آليات حماية للمتضررين."
       },
       "en": {
         "question": "What does the principle of equal treatment mean in Germany?",
@@ -18827,7 +18827,7 @@
         "b": "Vous pouvez faire preuve de discrimination à l’égard d’autres personnes s’il y a des raisons personnelles suffisantes pour le faire.",
         "c": "Personne n’a le droit de poursuivre en justice des personnes qui ont été désavantagées.",
         "d": "La loi veut que tout le monde donne de l’argent à des groupes défavorisés chaque année.",
-        "context": "No context available"
+        "context": "Le principe de l'égalité de traitement en Allemagne est un principe central inscrit dans des lois telles que la loi générale sur l'égalité de traitement (AGG). Il vise à prévenir la discrimination dans des domaines comme le marché du travail, l'éducation et l'accès aux services. L'objectif est de garantir que toutes les personnes, quelles que soient des caractéristiques telles que le handicap, le sexe, la race, la religion ou l'âge, bénéficient des mêmes chances et d'un traitement équitable. Ce principe favorise l'inclusion et l'égalité des chances en interdisant les discriminations et en mettant en place des mécanismes de protection pour les personnes concernées."
       },
       "hi": {
         "question": "जर्मनी में समान उपचार के सिद्धांत का क्या अर्थ है?",
@@ -18835,7 +18835,7 @@
         "b": "यदि ऐसा करने के लिए पर्याप्त व्यक्तिगत कारण हैं तो आप अन्य लोगों के साथ भेदभाव कर सकते हैं।",
         "c": "किसी को भी लोगों पर मुकदमा करने की अनुमति नहीं है यदि उन्हें वंचित किया गया है।",
         "d": "हर किसी के लिए हर साल वंचित समूहों को पैसा दान करना कानून है।",
-        "context": "No context available"
+        "context": "जर्मनी में समान उपचार का सिद्धांत एक केंद्रीय सिद्धांत है, जो Allgemeines Gleichbehandlungsgesetz (AGG) जैसे कानूनों में निहित है। इसका उद्देश्य रोजगार, शिक्षा और सेवाओं तक पहुंच जैसे क्षेत्रों में भेदभाव को रोकना है। लक्ष्य यह सुनिश्चित करना है कि सभी व्यक्तियों को विकलांगता, लिंग, नस्ल, धर्म या उम्र जैसी विशेषताओं के बावजूद समान अवसर और निष्पक्ष व्यवहार मिले। यह सिद्धांत भेदभाव को प्रतिबंधित करके और प्रभावित लोगों के लिए सुरक्षा तंत्र प्रदान करके समावेशन और समान अवसर को बढ़ावा देता है।"
       },
       "ru": {
         "question": "Что означает принцип равного обращения в Германии?",
@@ -18843,7 +18843,7 @@
         "b": "Вы можете дискриминировать других людей, если для этого есть достаточные личные причины.",
         "c": "Никому не разрешается подавать в суд на людей, если они оказались в неблагоприятном положении.",
         "d": "По закону каждый должен ежегодно жертвовать деньги обездоленным группам населения.",
-        "context": "No context available"
+        "context": "Принцип равного обращения в Германии — центральный принцип, закреплённый в таких законах, как Общий закон о равном обращении (AGG). Он направлен на предотвращение дискриминации в таких сферах, как рынок труда, образование и доступ к услугам. Цель — обеспечить всем людям равные возможности и справедливое обращение независимо от таких признаков, как инвалидность, пол, раса, религия или возраст. Этот принцип способствует инклюзии и равенству возможностей, запрещая дискриминацию и предоставляя механизмы защиты для пострадавших."
       },
       "tr": {
         "question": "Almanya'da eşit muamele ilkesi ne anlama geliyor?",
@@ -18851,7 +18851,7 @@
         "b": "Bunu yapmak için yeterli kişisel nedenler varsa, diğer insanlara karşı ayrımcılık yapabilirsiniz.",
         "c": "Dezavantajlı durumda olan hiç kimsenin insanları dava etmesine izin verilmez.",
         "d": "Herkesin her yıl dezavantajlı gruplara para bağışlaması yasadır.",
-        "context": "No context available"
+        "context": "Almanya'da eşit muamele ilkesi, Allgemeines Gleichbehandlungsgesetz (AGG) gibi yasalarla güvence altına alınmış merkezi bir ilkedir. İşgücü piyasası, eğitim ve hizmetlere erişim gibi alanlarda ayrımcılığı önlemeyi amaçlar. Amaç, engellilik, cinsiyet, ırk, din veya yaş gibi özellikler gözetilmeksizin herkesin eşit fırsatlar ve adil muamele görmesini sağlamaktır. Bu ilke, ayrımcılığı yasaklayarak ve etkilenen kişiler için koruma mekanizmaları sağlayarak kapsayıcılığı ve fırsat eşitliğini teşvik eder."
       },
       "uk": {
         "question": "Що означає принцип рівного ставлення в Німеччині?",
@@ -18859,7 +18859,7 @@
         "b": "Ви можете дискримінувати інших людей, якщо для цього є достатні особисті причини.",
         "c": "Ніхто не має права подавати до суду на людей, якщо вони опинилися в невигідному становищі.",
         "d": "Законом є те, що кожен має щороку жертвувати гроші знедоленим верствам населення.",
-        "context": "No context available"
+        "context": "Принцип рівного ставлення в Німеччині — центральний принцип, закріплений у таких законах, як Загальний закон про рівне ставлення (AGG). Він має на меті запобігти дискримінації у сферах, таких як ринок праці, освіта та доступ до послуг. Мета — забезпечити, щоб усі люди отримували рівні можливості та справедливе ставлення незалежно від таких характеристик, як інвалідність, стать, раса, релігія чи вік. Цей принцип сприяє інклюзії та рівним можливостям, забороняючи дискримінацію і забезпечуючи механізми захисту для постраждалих."
       }
     }
   },
@@ -19531,7 +19531,7 @@
         "b": "تعيشان امرأتان معا.",
         "c": "يعيش أب أعزب مع طفليه.",
         "d": "رجل متزوج من امرأتين في نفس الوقت.",
-        "context": "No context available"
+        "context": "في ألمانيا ينظم القانون المدني (BGB) قوانين الأسرة والزواج. المبدأ الأساسي هو الزواج الأحادي (monogamie)، أي أن الشخص يجوز أن يكون متزوجًا من شخص واحد فقط في الوقت نفسه. منذ إدخال الزواج للجميع عام 2017، تُعترف العلاقات المثلية قانونياً. ومع ذلك، فإن الزيجات المتعددة (تعدد الزوجات/الأزواج) محظورة وغير معترف بها قانونياً في ألمانيا."
       },
       "en": {
         "question": "Which way of life is not allowed in Germany?",
@@ -19547,7 +19547,7 @@
         "b": "Deux femmes vivent ensemble.",
         "c": "Un père célibataire vit avec ses deux enfants.",
         "d": "Un homme est marié à deux femmes en même temps.",
-        "context": "No context available"
+        "context": "Le Code civil (BGB) régit le droit de la famille et du mariage en Allemagne. Le principe fondamental est la monogamie : une personne ne peut être mariée qu'à une seule autre personne à la fois. Les partenariats entre personnes de même sexe sont légalement reconnus depuis l'introduction du « mariage pour tous » en 2017. Les mariages polygames sont en revanche interdits et ne sont pas reconnus juridiquement en Allemagne."
       },
       "hi": {
         "question": "जर्मनी में जीवन के किस तरीके की अनुमति नहीं है?",
@@ -19555,7 +19555,7 @@
         "b": "दो महिलाएं एक साथ रहती हैं।",
         "c": "एक अकेला पिता अपने दो बच्चों के साथ रहता है।",
         "d": "एक पुरुष एक ही समय में दो महिलाओं से विवाहित है।",
-        "context": "No context available"
+        "context": "जर्मनी में पारिवारिक और वैवाहिक कानून सिविल कोड (BGB) द्वारा नियंत्रित होते हैं। मूल सिद्धांत एक‑पत्नी‑एक‑पति का है (मोногैमी), जिसका अर्थ है कि कोई व्यक्ति एक समय में केवल एक अन्य व्यक्ति का विवाह कर सकता है। 2017 में 'सभी के लिए विवाह' लागू होने के बाद समलैंगिक रिश्तों को कानूनी मान्यता मिली है। बहुविवाह (polygamy) जर्मनी में प्रतिबंधित है और कानूनी रूप से मान्यता प्राप्त नहीं है।"
       },
       "ru": {
         "question": "Какой образ жизни запрещен в Германии?",
@@ -19563,7 +19563,7 @@
         "b": "Две женщины живут вместе.",
         "c": "Отец-одиночка живет с двумя детьми.",
         "d": "Мужчина женат на двух женщинах одновременно.",
-        "context": "No context available"
+        "context": "В Германии семейное и брачное право регулируется Гражданским кодексом (BGB). Основной принцип — моногамия, то есть человек может быть женат только на одном другом человеке одновременно. Однополые партнёрства юридически признаны с введением «брака для всех» в 2017 году. Полигамные браки в Германии запрещены и юридически не признаются."
       },
       "tr": {
         "question": "Almanya'da hangi yaşam tarzına izin verilmiyor?",
@@ -19571,7 +19571,7 @@
         "b": "İki kadın birlikte yaşıyor.",
         "c": "Bekar bir baba iki çocuğuyla birlikte yaşıyor.",
         "d": "Bir erkek aynı anda iki kadınla evlidir.",
-        "context": "No context available"
+        "context": "Almanya'da aile ve evlilik hukuku Alman Medeni Kanunu (BGB) tarafından düzenlenir. Temel ilke monogamidir; yani bir kişi aynı anda yalnızca bir başka kişiyle evli olabilir. 2017'de herkes için evlilik yürürlüğe girdikten sonra aynı cinsiyetten çiftlerin birlikteliği yasal olarak tanınmıştır. Çok eşlilik Almanya'da yasaktır ve hukuken tanınmamaktadır."
       },
       "uk": {
         "question": "Який спосіб життя заборонений у Німеччині?",
@@ -19579,7 +19579,7 @@
         "b": "Дві жінки живуть разом.",
         "c": "Батько-одинак живе з двома дітьми.",
         "d": "Чоловік перебуває у шлюбі з двома жінками одночасно.",
-        "context": "No context available"
+        "context": "У Німеччині сімейне та шлюбне право регулюється Цивільним кодексом (BGB). Основний принцип — моногамія, тобто людина може бути у шлюбі одночасно лише з однією іншою людиною. Одностатеві партнерства юридично визнані з впровадженням «шлюбу для всіх» у 2017 році. Полігамні шлюби в Німеччині заборонені та юридично не визнаються."
       }
     }
   },
@@ -20395,7 +20395,7 @@
         "b": "يتعلم الأطفال كل ما هو مهم في العمل في المدرسة. بعد المدرسة ، ليس عليك مواصلة التعلم.",
         "c": "يجب على البالغين الاستمرار في التعلم حتى بعد تدريبهم.",
         "d": "يجب على الجميع التوقف عن العمل في وقت مبكر لأن كل شيء يتغير.",
-        "context": "No context available"
+        "context": "مع التطور التكنولوجي السريع والرقمنة، تتغير متطلبات العاملين باستمرار. قد تصبح المهارات المطلوبة اليوم قديمة غدًا. في هذا السياق الديناميكي، من المهم وضع استراتيجيات للتدريب المستمر والتكيف مع الظروف الجديدة. يصبح التعلم مدى الحياة والمرونة في التكيف أمورًا حاسمة للحفاظ على النجاح المهني. يلعب أصحاب العمل والمؤسسات التعليمية دورًا رئيسيًا في توفير فرص التدريب المناسبة وتعزيز المهارات اللازمة."
       },
       "en": {
         "question": "What you need to be able to do for work will change very quickly in the future. What can be done?",
@@ -20411,7 +20411,7 @@
         "b": "Les enfants apprennent tout ce qui est important au travail, à l’école. Après l’école, vous n’avez pas besoin de continuer à apprendre.",
         "c": "Les adultes doivent continuer à apprendre même après leur formation.",
         "d": "Tout le monde doit arrêter de travailler plus tôt parce que tout change.",
-        "context": "No context available"
+        "context": "Avec le développement technologique rapide et la numérisation, les exigences imposées aux travailleurs évoluent constamment. Des compétences recherchées aujourd'hui peuvent devenir obsolètes demain. Dans cet environnement dynamique, il est important de développer des stratégies de formation continue et de s'adapter aux nouvelles conditions. L'apprentissage tout au long de la vie et la capacité d'adaptation deviennent essentiels pour maintenir la réussite professionnelle. Les employeurs et les établissements d'enseignement jouent un rôle central pour proposer des offres de formation appropriées et favoriser les compétences nécessaires."
       },
       "hi": {
         "question": "काम के लिए आपको जो करने में सक्षम होने की आवश्यकता है वह भविष्य में बहुत जल्दी बदल जाएगा। क्या किया जा सकता है?",
@@ -20419,7 +20419,7 @@
         "b": "बच्चे वह सब कुछ सीखते हैं जो स्कूल में काम पर महत्वपूर्ण है। स्कूल के बाद, आपको सीखना जारी रखने की आवश्यकता नहीं है।",
         "c": "वयस्कों को अपने प्रशिक्षण के बाद भी सीखते रहना पड़ता है।",
         "d": "हर किसी को पहले काम करना बंद करना होगा क्योंकि सब कुछ बदल रहा है।",
-        "context": "No context available"
+        "context": "तेजी से तकनीकी विकास और डिजिटलीकरण के साथ, कर्मचारियों से अपेक्षित कौशल लगातार बदल रहे हैं। आज जो कौशल मांग में हैं, वे कल अप्रचलित हो सकते हैं। इस गतिशील वातावरण में सतत प्रशिक्षण और नई परिस्थितियों के अनुरूप अनुकूलन के लिए रणनीतियाँ विकसित करना महत्वपूर्ण है। आजीवन सीखना और लचीले ढंग से अनुकूल होने की क्षमता पेशेवर सफलता बनाए रखने के लिए निर्णायक बनती जा रही है। नियोक्ता और शैक्षिक संस्थान उपयुक्त प्रशिक्षण के अवसर प्रदान करने और आवश्यक कौशल को बढ़ावा देने में केंद्रीय भूमिका निभाते हैं।"
       },
       "ru": {
         "question": "То, что нужно уметь делать для работы, в будущем изменится очень быстро. Что можно сделать?",
@@ -20427,7 +20427,7 @@
         "b": "Все, что важно на работе, дети учатся в школе. После школы вам не нужно продолжать обучение.",
         "c": "Взрослые должны продолжать учиться даже после обучения.",
         "d": "Всем приходится раньше прекращать работу, потому что все меняется.",
-        "context": "No context available"
+        "context": "В условиях стремительного технологического развития и цифровизации требования к сотрудникам постоянно меняются. Навыки, востребованные сегодня, завтра могут устареть. В этом динамичном окружении важно вырабатывать стратегии для непрерывного обучения и адаптации к новым условиям. Обучение на протяжении всей жизни и гибкая адаптация становятся решающими для сохранения профессионального успеха. Работодатели и образовательные учреждения играют ключевую роль в предоставлении соответствующих программ повышения квалификации и развитии необходимых компетенций."
       },
       "tr": {
         "question": "İş için yapmanız gerekenler gelecekte çok hızlı bir şekilde değişecek. Ne yapılabilir?",
@@ -20435,7 +20435,7 @@
         "b": "Çocuklar işte okulda önemli olan her şeyi öğrenirler. Okuldan sonra öğrenmeye devam etmek zorunda değilsiniz.",
         "c": "Yetişkinler eğitimlerinden sonra bile öğrenmeye devam etmek zorundadır.",
         "d": "Her şey değiştiği için herkesin daha erken çalışmayı bırakması gerekiyor.",
-        "context": "No context available"
+        "context": "Hızlı teknolojik gelişme ve dijitalleşme ile birlikte çalışanlardan beklenen beceriler sürekli değişiyor. Bugün talep gören beceriler yarın demode olabilir. Bu dinamik ortamda sürekli eğitim ve yeni koşullara uyum sağlama stratejileri geliştirmek önemlidir. Yaşam boyu öğrenme ve esnek uyum sağlama yeteneği, mesleki başarıyı sürdürmek için kritik hale geliyor. İşverenler ve eğitim kurumları, uygun eğitim fırsatları sunmak ve gerekli becerileri desteklemek konusunda merkezi bir rol oynar."
       },
       "uk": {
         "question": "Те, що потрібно вміти робити для роботи, в майбутньому зміниться дуже швидко. Що робити?",
@@ -20443,7 +20443,7 @@
         "b": "У школі діти вчаться всьому, що важливо на роботі. Після школи не обов'язково продовжувати навчання.",
         "c": "Дорослі повинні продовжувати вчитися навіть після навчання.",
         "d": "Всім доводиться припиняти роботу раніше, тому що все змінюється.",
-        "context": "No context available"
+        "context": "У зв’язку зі стрімким технологічним розвитком і цифровізацією вимоги до працівників постійно змінюються. Навички, які сьогодні затребувані, завтра можуть стати застарілими. У цьому динамічному середовищі важливо розробляти стратегії безперервного навчання та адаптації до нових умов. Навчання протягом життя і гнучка адаптивність стають критично важливими для збереження професійного успіху. Роботодавці та навчальні заклади відіграють ключову роль у наданні відповідних можливостей підвищення кваліфікації та розвитку необхідних компетенцій."
       }
     }
   },
@@ -29899,7 +29899,7 @@
         "b": "في مكتب النظام العام في البلدية",
         "c": "مع مفوض الدولة للتربية المدنية",
         "d": "في الكنائس",
-        "context": "No context available"
+        "context": "في شليسفيغ-هولشتاين توجد جهات متعددة حيث يمكن للمواطنين الاطلاع على المواضيع السياسية. تقدم هيئة استشارات المستهلك (الخيار أ) معلومات حول حقوق المستهلك وحمايته. يتعامل مكتب النظام العام في البلدية (الخيار ب) أساساً مع الحفاظ على النظام العام والأمن. المفوض الولائي للتربية السياسية (الخيار ج) مسؤول بشكل خاص عن تعزيز الوعي والتعليم السياسي. يمكن للكنائس (الخيار د) أيضاً أن تلعب دورًا، لكنها تركز بشكل أساسي على القضايا الدينية والأخلاقية. يساعد فهم هذه المؤسسات في اختيار مصدر المعلومات المناسب حول المواضيع السياسية."
       },
       "en": {
         "question": "Where can you find out about political topics in Schleswig-Holstein?",
@@ -29915,7 +29915,7 @@
         "b": "au bureau de l’ordre public de la municipalité",
         "c": "avec le Commissaire d’État à l’éducation civique",
         "d": "Dans les églises",
-        "context": "No context available"
+        "context": "Dans le Schleswig-Holstein, il existe divers organismes où les citoyens peuvent s'informer sur les sujets politiques. Le Centre de conseil aux consommateurs (option a) fournit des informations sur les droits et la protection des consommateurs. Le bureau de l'ordre public de la municipalité (option b) est principalement chargé du maintien de l'ordre et de la sécurité. Le commissaire d'État à l'éducation politique (option c) est spécifiquement responsable de la promotion de la sensibilisation et de l'éducation politiques. Les églises (option d) peuvent également jouer un rôle, mais se concentrent principalement sur des questions religieuses et éthiques. Comprendre ces institutions aide à choisir la bonne source d'information sur les sujets politiques."
       },
       "hi": {
         "question": "आप श्लेस्विग-होल्स्टीन में राजनीतिक विषयों के बारे में कहां से पता लगा सकते हैं?",
@@ -29923,7 +29923,7 @@
         "b": "नगर पालिका के सार्वजनिक व्यवस्था कार्यालय में",
         "c": "नागरिक शिक्षा के लिए राज्य आयुक्त के साथ",
         "d": "चर्चों में",
-        "context": "No context available"
+        "context": "श्लेस्विग-होल्स्टीन में नागरिक राजनीतिक विषयों के बारे में जानकारी प्राप्त करने के लिए विभिन्न संस्थान मौजूद हैं। उपभोक्ता सलाह केंद्र (विकल्प a) उपभोक्ता अधिकारों और सुरक्षा के बारे में जानकारी प्रदान करता है। नगर पालिका का सार्वजनिक व्यवस्था कार्यालय (विकल्प b) मुख्यतः सार्वजनिक आदेश और सुरक्षा बनाए रखने का कार्य करता है। राज्य के नागरिक शैक्षिक आयुक्त (विकल्प c) विशेष रूप से राजनीतिक जागरूकता और शिक्षा को बढ़ावा देने के लिए जिम्मेदार हैं। चर्च (विकल्प d) भी एक भूमिका निभा सकते हैं, लेकिन वे मुख्य रूप से धार्मिक और नैतिक विषयों पर ध्यान केंद्रित करते हैं। इन संस्थाओं को समझना राजनीतिक मुद्दों पर सही सूचना स्रोत चुनने में मदद करता है।"
       },
       "ru": {
         "question": "Где можно узнать о политических темах в Шлезвиг-Гольштейне?",
@@ -29931,7 +29931,7 @@
         "b": "в Управлении общественного порядка муниципалитета",
         "c": "с Уполномоченным штата по гражданскому образованию",
         "d": "в церквях",
-        "context": "No context available"
+        "context": "В Шлезвиг-Гольштейне существуют различные организации, где граждане могут получить информацию по политическим вопросам. Центр защиты прав потребителей (вариант a) предоставляет информацию о правах и защите потребителей. Муниципальное управление общественного порядка (вариант b) в первую очередь занимается поддержанием общественного порядка и безопасности. Уполномоченный земли по политическому образованию (вариант c) специально отвечает за продвижение политического просвещения и образования. Церкви (вариант d) также могут играть роль, но в основном сосредоточены на религиозных и этических вопросах. Понимание этих институтов помогает выбрать правильный источник информации по политическим темам."
       },
       "tr": {
         "question": "Schleswig-Holstein'daki siyasi konular hakkında nereden bilgi edinebilirsiniz?",
@@ -29939,7 +29939,7 @@
         "b": "Belediye Asayiş Bürosunda",
         "c": "Yurttaşlık Eğitiminden Sorumlu Devlet Komiseri ile",
         "d": "Kiliselerde",
-        "context": "No context available"
+        "context": "Schleswig-Holstein'da vatandaşların siyasi konular hakkında bilgi alabileceği çeşitli kurumlar vardır. Tüketici Danışma Merkezi (seçenek a), tüketici hakları ve koruması hakkında bilgi sunar. Belediyenin kamu düzeni ofisi (seçenek b) öncelikle kamu düzeninin ve güvenliğinin sağlanmasından sorumludur. Yurttaşlık eğitimi için devlet komiseri (seçenek c), siyasi farkındalık ve eğitimi teşvik etmekle özel olarak görevlidir. Kiliseler (seçenek d) de bir rol oynayabilir, ancak öncelikle dini ve etik konulara odaklanırlar. Bu kurumları anlamak, siyasi konular hakkında doğru bilgi kaynağını seçmeye yardımcı olur."
       },
       "uk": {
         "question": "Де можна дізнатися про політичні теми в Шлезвіг-Гольштейні?",
@@ -29947,7 +29947,7 @@
         "b": "в управлінні охорони громадського порядку муніципалітету",
         "c": "з Державним уповноваженим з громадянської освіти",
         "d": "при церквах",
-        "context": "No context available"
+        "context": "У Шлезвіг-Гольштейні є різні установи, де громадяни можуть дізнатися про політичні теми. Центр консультацій для споживачів (варіант а) надає інформацію про права та захист споживачів. Управління громадського порядку муніципалітету (варіант б) головним чином займається підтриманням громадського порядку та безпеки. Державний уповноважений з питань політичної освіти (варіант в) спеціально відповідає за сприяння політичній обізнаності та освіті. Церкви (варіант г) також можуть відігравати роль, але вони зосереджуються в основному на релігійних та етичних питаннях. Розуміння цих установ допомагає обрати правильне джерело інформації з політичних питань."
       }
     }
   },
